@@ -1,0 +1,73 @@
+DROP DATABASE IF EXISTS tree;
+-- Tree database
+-- Version 1.3 (With Constraints)
+-- Date 2/22/2026
+-- Author Fabrizio Martinez & Colin Sheehan
+
+CREATE DATABASE tree;
+USE tree;
+
+
+CREATE TABLE location (
+    location_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    address VARCHAR(150) NOT NULL,
+    neighborhood VARCHAR(100),
+    PRIMARY KEY (location_id)
+);
+
+
+CREATE TABLE species (
+    species_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    taxonomy VARCHAR(100) NOT NULL,
+    common_name VARCHAR(100),
+    functional_type VARCHAR(50),
+    mature_size VARCHAR(50),
+    PRIMARY KEY (species_id)
+);
+
+
+CREATE TABLE site (
+    site_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    site_type VARCHAR(50),
+    site_size VARCHAR(50),
+    site_width DECIMAL(5, 2),
+    wires VARCHAR(50),
+    improvement VARCHAR(50),
+    PRIMARY KEY (site_id)
+);
+
+
+CREATE TABLE pathogen (
+    pathogen_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    taxonomy VARCHAR(100) NOT NULL,
+    threat_level VARCHAR(50) NOT NULL,
+    PRIMARY KEY (pathogen_id)
+);
+
+CREATE TABLE tree (
+    tree_id INT UNSIGNED NOT NULL,
+    x_coord DECIMAL(12, 6),
+    y_coord DECIMAL(12, 6),
+    diameter DECIMAL(5, 2),
+    health VARCHAR(50),
+    date_inventoried DATETIME,
+    location_id INT UNSIGNED NOT NULL,
+    species_id INT UNSIGNED NOT NULL,
+    site_id INT UNSIGNED NOT NULL,
+    PRIMARY KEY (tree_id),
+    -- ON DELETE RESTRICT: Prevents deleting a Location/Species if a Tree is still using it.
+    CONSTRAINT fk_tree_location FOREIGN KEY (location_id) REFERENCES location (location_id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    CONSTRAINT fk_tree_species FOREIGN KEY (species_id) REFERENCES species (species_id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    CONSTRAINT fk_tree_site FOREIGN KEY (site_id) REFERENCES site (site_id) ON DELETE RESTRICT ON UPDATE CASCADE
+);
+
+
+CREATE TABLE tree_pathogen (
+    tree_id INT UNSIGNED NOT NULL,
+    pathogen_id INT UNSIGNED NOT NULL,
+    date_detected DATE,
+    PRIMARY KEY (tree_id, pathogen_id),
+    -- ON DELETE CASCADE: If a tree is deleted, its infection records are automatically deleted.
+    CONSTRAINT fk_tp_tree FOREIGN KEY (tree_id) REFERENCES tree (tree_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT fk_tp_pathogen FOREIGN KEY (pathogen_id) REFERENCES pathogen (pathogen_id) ON DELETE CASCADE ON UPDATE CASCADE
+);
