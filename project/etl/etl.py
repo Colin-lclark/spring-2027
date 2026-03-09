@@ -8,6 +8,10 @@ def createDatabaseCSV(database : str, tables : list[str]):
         tableData()
 
 
+def getFilePath() -> str:
+    file_path = input()
+    return file_path
+
 
 def tableData(columns : list[str], column_loc : list[int], database : str, file : str) -> list:
     table = [columns]
@@ -16,6 +20,7 @@ def tableData(columns : list[str], column_loc : list[int], database : str, file 
         table.append([id])
         for i in column_loc:
             table[len(table) - 1].append(list(csv.reader(line)[i]))
+        id += 1
 
     with open(file, mode='w', newline='') as row:
         csv.writer(file).writerows(table)
