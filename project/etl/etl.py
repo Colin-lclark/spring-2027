@@ -1,28 +1,65 @@
 import csv
 
-TREE_DATABASE_FILE_PATH = 'C:\Users\Colin\OneDrive\Documents\GitHub\Databases\spring-2026\project\etl'
+TREE_DATABASE_TABLES = [
+    ['location', ['location_id', 'address', 'neighborhood'], [3, 4]],
+    ['species', ['species_id', 'taxonomy', 'common_name', 'functional_type', 'mature_size'], [6, 7, 8]],
+    ['site', ['site_id', 'site_type', 'site_size', 'site_width', 'wires', 'improvement'], [11, 12, 13, 14, 15]],
+    ['tree', ['tree_id', 'x_coord', 'y_coord', 'diameter', 'health', 'date_inventoried', 'location_id', 'species_id', 'site_id'], [0, 1, 9, 10, 5]]
+  ]
 
-def createDatabaseCSV(database : str, tables : list[str]):
+def createTableCSVs(tables : list[str]):
     '''tables = [[tableName, [column1, column2, ...], [loc1, loc2, ...]], ...]'''
+    database = getFilePath()
     for tb in tables:
-        tableData()
+        tableData(tb[0] + '.csv', tb[1], tb[2], database)
 
 
 def getFilePath() -> str:
+    print('Database File Path: ')
     file_path = input()
     return file_path
 
 
-def tableData(columns : list[str], column_loc : list[int], database : str, file : str) -> list:
+def tableData(file : csv, columns : list[str], column_loc : list[int], database : str) -> csv:
     table = [columns]
     id = 1
-    with open(database) as line:
+    with open(database, mode='r') as line:
         table.append([id])
-        for i in column_loc:
-            table[len(table) - 1].append(list(csv.reader(line)[i]))
-        id += 1
+        value = csv.reader(line)
+        for lines in value:
+            print(lines)
+
+        '''for i in column_loc:
+            #Seperates the taxonomy from the common name if it is the species table
+            if value[i].find(' - ') != -1:
+              value[i].split(' - ')
+              table[len(table) - 1].append(value[i][0])
+              table[len(table) - 1].append(value[i][1])
+            else:
+              table[len(table) - 1].append(value[i])'''
+
+        #Turns row into tuple so that it can be used in a set
+        for row in range(len(table)):
+            tuple(table[row])
+
+        print(table)
+        #Ensures that values are not redundant by checking if turning table into a set decreases its length
+        if table > set(table):
+            table.pop()
+        else:
+            id += 1
+
+    return table
+
+def writeCSV():
+    with open(file, mode='w'):
+      csv.writer(file).writerows(columns)
 
     with open(file, mode='w', newline='') as row:
         csv.writer(file).writerows(table)
+    
+    return None
 
-    return table
+
+if __name__ == '__main__':
+    createTableCSVs(TREE_DATABASE_TABLES)
