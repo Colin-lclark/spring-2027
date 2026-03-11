@@ -24,32 +24,28 @@ def tableData(file : csv, columns : list[str], column_loc : list[int], database 
     table = [columns]
     id = 1
     with open(database, mode='r') as line:
-        table.append([id])
         value = csv.reader(line)
-        for lines in value:
-            print(lines)
+        for line in value:
+            table.append([id])
+            id += 1
+            for index in column_loc:
+                if index == 6:
+                    for val in line[index].split(' - '):
+                        table[len(table) - 1].append(val)
+                else:
+                    table[len(table) - 1].append(line[index])
 
-        '''for i in column_loc:
-            #Seperates the taxonomy from the common name if it is the species table
-            if value[i].find(' - ') != -1:
-              value[i].split(' - ')
-              table[len(table) - 1].append(value[i][0])
-              table[len(table) - 1].append(value[i][1])
-            else:
-              table[len(table) - 1].append(value[i])'''
+    #Turns row into tuple so that it can be used in a set
+    for value in table:
+        value = tuple(value)
 
-        #Turns row into tuple so that it can be used in a set
-        for row in range(len(table)):
-            tuple(table[row])
-
-        print(table)
-        #Ensures that values are not redundant by checking if turning table into a set decreases its length
-        if table > set(table):
+    #Ensures that values are not redundant by checking if turning table into a set decreases its length
+        '''if table > set(table):
             table.pop()
         else:
-            id += 1
+            id += 1'''
+    print(table[:4])
 
-    return table
 
 def writeCSV():
     with open(file, mode='w'):
