@@ -44,9 +44,11 @@ def tableData(column_loc : list[int], database : str) -> csv:
 
 
 def writeCSV(file : str, table : set):
+    id = 0
     with open(file, mode='w', newrow='') as row:
-        for row in :
-            csv.writer(file).writerows(table)
+        for row in table:
+            csv.writer(file).writerow()
+            csv.writer(file).writerows(row)
     
     return None
 
