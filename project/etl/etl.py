@@ -11,7 +11,7 @@ def createTableCSVs(tables : list[str]):
     '''tables = [[tableName, [column1, column2, ...], [loc1, loc2, ...]], ...]'''
     database = getFilePath()
     for tb in tables:
-        tableData(tb[0] + '.csv', tb[1], tb[2], database)
+        tableData(tb[2], database)
 
 
 def getFilePath() -> str:
@@ -20,39 +20,33 @@ def getFilePath() -> str:
     return file_path
 
 
-def tableData(file : csv, columns : list[str], column_loc : list[int], database : str) -> csv:
-    table = [columns]
-    id = 1
-    with open(database, mode='r') as line:
-        value = csv.reader(line)
-        for line in value:
-            table.append([id])
-            id += 1
+def tableData(column_loc : list[int], database : str) -> csv:
+    table = set()
+    with open(database, mode='r') as row:
+        value = csv.reader(row)
+        for row in value:
+            temp = []
+
+            #Adds all values specified for the given table
             for index in column_loc:
+
+                #Seperates taxonomy from common name for species so they can be inputed as seperate values
                 if index == 6:
-                    for val in line[index].split(' - '):
-                        table[len(table) - 1].append(val)
+                    for val in row[index].split(' - '):
+                        temp.append(val)
                 else:
-                    table[len(table) - 1].append(line[index])
+                    temp.append(row[index])
+            table.add(tuple(temp))
 
-    #Turns row into tuple so that it can be used in a set
-    for value in table:
-        value = tuple(value)
+    print(table)
 
-    #Ensures that values are not redundant by checking if turning table into a set decreases its length
-        '''if table > set(table):
-            table.pop()
-        else:
-            id += 1'''
-    print(table[:4])
+    return table
 
 
-def writeCSV():
-    with open(file, mode='w'):
-      csv.writer(file).writerows(columns)
-
-    with open(file, mode='w', newline='') as row:
-        csv.writer(file).writerows(table)
+def writeCSV(file : str, table : set):
+    with open(file, mode='w', newrow='') as row:
+        for row in :
+            csv.writer(file).writerows(table)
     
     return None
 
