@@ -11,7 +11,7 @@ def createTableCSVs(tables : list[str]):
     '''tables = [[tableName, [column1, column2, ...], [loc1, loc2, ...]], ...]'''
     database = getFilePath()
     for tb in tables:
-        tableData(tb[2], database)
+        writeCSV(getFilePath(), tableData(tb[2], database), tb[1])
 
 
 def getFilePath() -> str:
@@ -38,19 +38,16 @@ def tableData(column_loc : list[int], database : str) -> csv:
                     temp.append(row[index])
             table.add(tuple(temp))
 
-    print(table)
-
     return table
 
 
-def writeCSV(file : str, table : set):
+def writeCSV(file : str, table : set, columns : list[str]):
     id = 0
-    with open(file, mode='w', newrow='') as row:
-        for row in table:
-            csv.writer(file).writerow()
-            csv.writer(file).writerows(row)
-    
-    return None
+    with open(file, mode='w') as row:
+        value = csv.writer(row)
+        for val in table:
+            value.writerows(list(val))
+            id += 1
 
 
 if __name__ == '__main__':
