@@ -1,0 +1,1449 @@
+site_id,site_type,site_size,site_width,wires,improvement
+1,Median,Large,18.5,None,Improved
+2,Cutout,Large,6,Other,Improved
+3,Swale,Medium,4.80000019,None,Improved
+4,Strip,Large,7.69999981,None,Improved
+5,Cutout,Small,3,Other,Improved
+6,Strip,Small,2.9000001,High voltage,Improved
+7,Cutout,Medium,6.5,High voltage,Improved
+8,Swale,Large,8.19999981,None,Improved
+9,Curbtight sidewalk,Large,0,None,Improved
+10,Strip,Medium,8.10000038,High voltage,Improved
+11,Median,Large,57,None,Improved
+12,Strip,Large,18.6000004,None,Improved
+13,Swale,Medium,12,High voltage,Improved
+14,Strip,Large,9.89999962,Other,Improved
+15,Cutout,Medium,13.8000002,High Voltage,Improved
+16,Strip,Medium,22.5,High voltage,Improved
+17,Strip,Medium,8.69999981,High Voltage,Improved
+18,Strip,Large,14.1999998,None,Improved
+19,No curb - no sidewalk,Large,14.8000002,None,Underimproved
+20,Strip,Medium,12.3999996,High voltage,Improved
+21,Strip,Large,10,None,Improved
+22,Median,Large,15.3000002,None,Improved
+23,Median,Large,55,None,Improved
+24,Swale,Large,13.5,None,Improved
+25,Swale,Large,7.9000001,None,Improved
+26,Cutout,Medium,4.5999999,Other,Improved
+27,Swale,Large,7.19999981,Other,Improved
+28,Median,Medium,26,High voltage,Improved
+29,Strip,Large,13,None,Improved
+30,Strip,Medium,9.80000019,High voltage,Improved
+31,Median,Large,53.5,None,Improved
+32,Cutout,Medium,4.80000019,High voltage,Improved
+33,Strip,Large,9.80000019,Other,Improved
+34,Strip,Small,1,High voltage,Improved
+35,Strip,Medium,8,High voltage,Improved
+36,Swale,Large,6,Other,Improved
+37,Median,Large,26,None,Improved
+38,Median,Medium,32,High voltage,Improved
+39,Median,Medium,21,High voltage,Improved
+40,Strip,Large,33,None,Improved
+41,Median,Large,31,None,Improved
+42,Swale,Medium,6.19999981,High voltage,Improved
+43,Median,Large,50.2000008,None,Improved
+44,Other,Large,8,None,Underimproved
+45,Cutout,Medium,7.9000001,High voltage,Improved
+46,Swale,Large,6.19999981,Other,Improved
+47,Cutout,Small,2.70000005,None,Improved
+48,Swale,Small,3,High voltage,Improved
+49,Strip,Large,16.5,Other,Improved
+50,Strip,Small,1.29999995,None,Improved
+51,Strip,Large,13.1000004,Other,Improved
+52,Median,Small,2.79999995,Other,Improved
+53,Strip,Small,1.70000005,High voltage,Improved
+54,Median,Large,154,None,Improved
+55,Swale,Medium,5.0999999,None,Improved
+56,Strip,Medium,4.5,Other,Improved
+57,Cutout,Large,9.69999981,Other,Improved
+58,Strip,Large,9.69999981,Other,Improved
+59,Cutout,Small,1.20000005,None,Improved
+60,Median,Medium,4.69999981,None,Improved
+61,Strip,Medium,12.6999998,High voltage,Improved
+62,Median,Large,65,None,Improved
+63,Strip,Large,13.5,None,Improved
+64,Median,Large,7.19999981,None,Improved
+65,Strip,Medium,5.69999981,High Voltage,Improved
+66,Cutout,Large,6.5999999,Other,Improved
+67,Cutout,Medium,5.80000019,None,Improved
+68,Strip,Medium,7.9000001,High voltage,Improved
+69,Strip,Medium,9,High voltage,Improved
+70,Strip,Large,11,Other,Improved
+71,Strip,Medium,19.7999992,High Voltage,Improved
+72,Median,Large,29.5,Other,Improved
+73,Strip,Large,10.3999996,None,Improved
+74,Cutout,Medium,10.6999998,High voltage,Improved
+75,Cutout,Small,2.9000001,Other,Improved
+76,Swale,Small,3.5999999,High voltage,Improved
+77,Median,Medium,60,High voltage,Improved
+78,Swale,Large,7,None,Improved
+79,Median,Large,40,Other,Improved
+80,Swale,Medium,9.10000038,High voltage,Improved
+81,Strip,Medium,4.0999999,Other,Improved
+82,Strip,Medium,4.19999981,None,Improved
+83,Cutout,Medium,5.69999981,High voltage,Improved
+84,Strip,Large,12.5,None,Improved
+85,Median,Medium,17,High voltage,Improved
+86,Median,Large,30.2000008,None,Improved
+87,Cutout,Medium,4.4000001,High voltage,Improved
+88,Median,Large,50,None,Improved
+89,Strip,Small,1.60000002,High voltage,Improved
+90,Cutout,Medium,6.4000001,High voltage,Improved
+91,Strip,Large,30,None,Improved
+92,Swale,Large,10,Other,Improved
+93,Strip,Large,13.6000004,None,Improved
+94,Median,Large,13,None,Improved
+95,Cutout,Medium,7.5,High voltage,Improved
+96,Strip,Medium,8.80000019,High voltage,Improved
+97,Other,Medium,0,High voltage,Underimproved
+98,Cutout,Medium,7,High voltage,Improved
+99,Swale,Small,3.79999995,None,Improved
+100,Swale,Medium,6.69999981,High voltage,Improved
+101,Cutout,Medium,4.5,High Voltage,Improved
+102,Swale,Large,10.5,None,Improved
+103,Curb - no sidewalk,Large,16.7999992,Other,Underimproved
+104,Strip,Large,14.8000002,None,Improved
+105,Median,Large,33,None,Improved
+106,Cutout,Small,3.9000001,None,Improved
+107,Median,Large,7.80000019,None,Improved
+108,Cutout,Small,3.4000001,High voltage,Improved
+109,Cutout,Large,7.9000001,Other,Improved
+110,Strip,Medium,12.3000002,High voltage,Improved
+111,Strip,Medium,13.8999996,High voltage,Improved
+112,Cutout,Medium,5.5,High voltage,Improved
+113,Strip,Large,34,None,Improved
+114,Strip,Large,24.3999996,None,Improved
+115,Strip,Large,25,None,Improved
+116,Median,Large,15.5,None,Improved
+117,Strip,Large,42,None,Improved
+118,Strip,Large,12.3000002,Other,Improved
+119,Swale,Large,7.0999999,None,Improved
+120,Cutout,Medium,4.69999981,High voltage,Improved
+121,Strip,Large,9.10000038,Other,Improved
+122,Cutout,Medium,4.30000019,None,Improved
+123,Cutout,Small,3.79999995,Other,Improved
+124,Strip,Medium,10.8999996,High voltage,Improved
+125,Strip,Large,6.5999999,Other,Improved
+126,Median,Large,35.2000008,None,Improved
+127,Cutout,Small,1.60000002,High voltage,Improved
+128,Strip,Large,10,Other,Improved
+129,Strip,Medium,8.39999962,High Voltage,Improved
+130,Cutout,Large,9.39999962,None,Improved
+131,Cutout,Large,8,None,Improved
+132,Swale,Large,9,Other,Improved
+133,Strip,Large,12.8000002,None,Improved
+134,Strip,Large,14.5,None,Improved
+135,Strip,Medium,16.7999992,High voltage,Improved
+136,Strip,Medium,5.5,High voltage,Improved
+137,Cutout,Medium,7.4000001,High voltage,Improved
+138,Swale,Medium,4.5,High voltage,Improved
+139,Strip,Medium,10.5,High voltage,Improved
+140,Strip,Large,6.69999981,Other,Improved
+141,Median,Large,14,None,Improved
+142,Strip,Large,9.30000019,None,Improved
+143,Strip,Large,28,Other,Improved
+144,Strip,Large,12.1999998,Other,Improved
+145,Cutout,Medium,8.30000019,High voltage,Improved
+146,No curb - no sidewalk,Medium,0,High voltage,Underimproved
+147,Strip,Large,10.1999998,Other,Improved
+148,Strip,Medium,18.2999992,High voltage,Improved
+149,Strip,Small,2.5,None,Improved
+150,Cutout,Medium,5,None,Improved
+151,Cutout,Medium,6.9000001,High voltage,Improved
+152,Cutout,Large,12.3000002,Other,Improved
+153,Strip,Large,16.6000004,None,Improved
+154,Strip,Medium,7.4000001,High voltage,Improved
+155,Cutout,Medium,4.80000019,Other,Improved
+156,Swale,Medium,4.0999999,High voltage,Improved
+157,Cutout,Medium,5.5999999,High voltage,Improved
+158,Strip,Small,1,Other,Improved
+159,Curbtight sidewalk,Medium,4,None,Improved
+160,Strip,Large,8.10000038,None,Improved
+161,Cutout,Medium,10.3000002,High voltage,Improved
+162,Swale,Large,10.6000004,None,Improved
+163,Strip,Large,10.8000002,None,Improved
+164,Swale,Large,6.0999999,Other,Improved
+165,Strip,Medium,23,High voltage,Improved
+166,Median,Medium,15,High voltage,Improved
+167,Strip,Medium,12.8999996,High voltage,Improved
+168,Strip,Large,18.7000008,Other,Improved
+169,Swale,Small,3,Other,Improved
+170,Cutout,Small,1.5,None,Improved
+171,Median,Medium,4.0999999,None,Improved
+172,Swale,Large,7,Other,Improved
+173,Swale,Large,12.6999998,None,Improved
+174,Strip,Small,1.29999995,High voltage,Improved
+175,Strip,Medium,4.19999981,Other,Improved
+176,Median,Large,9.5,None,Improved
+177,Cutout,Large,10.5,Other,Improved
+178,Cutout,Medium,5.5999999,None,Improved
+179,Median,Large,15,None,Improved
+180,Median,Large,21,None,Improved
+181,Median,Large,13.1999998,None,Improved
+182,Median,Large,57.0999985,None,Improved
+183,Cutout,Small,1.20000005,High voltage,Improved
+184,Swale,Large,20,None,Improved
+185,Strip,Medium,6.69999981,High voltage,Improved
+186,Swale,Medium,7.5999999,High voltage,Improved
+187,No curb - no sidewalk,Medium,0,High Voltage,Underimproved
+188,Cutout,Medium,7.69999981,High voltage,Improved
+189,Cutout,Large,7.19999981,None,Improved
+190,Median,Medium,5.19999981,None,Improved
+191,Strip,Large,32,None,Improved
+192,Median,Large,16,None,Improved
+193,Cutout,Large,7.4000001,Other,Improved
+194,Cutout,Large,11.1999998,Other,Improved
+195,Strip,Medium,6.4000001,High Voltage,Improved
+196,Strip,Large,6.0999999,Other,Improved
+197,Strip,Large,37,None,Improved
+198,Strip,Medium,10.6000004,High voltage,Improved
+199,Strip,Medium,4.19999981,High voltage,Improved
+200,Cutout,Large,10.8000002,None,Improved
+201,Curbtight sidewalk,Small,3.5999999,None,Improved
+202,Strip,Medium,7.5,High Voltage,Improved
+203,Median,Large,28.8999996,None,Improved
+204,Strip,Small,1.60000002,Other,Improved
+205,Strip,Large,11.8000002,Other,Improved
+206,Median,Medium,38,High voltage,Improved
+207,Swale,Large,7.19999981,None,Improved
+208,Strip,Large,7.0999999,None,Improved
+209,Strip,Large,7.5,Other,Improved
+210,Strip,Large,22.3999996,None,Improved
+211,Other,Medium,0,Other,Underimproved
+212,Strip,Large,22.7999992,None,Improved
+213,Strip,Large,8.89999962,Other,Improved
+214,Strip,Large,9,None,Improved
+215,Cutout,Large,9.30000019,Other,Improved
+216,Strip,Large,40,Other,Improved
+217,Strip,Small,2.0999999,Other,Improved
+218,Median,Large,19.5,None,Improved
+219,Cutout,Small,3.9000001,High voltage,Improved
+220,Strip,Large,7.5999999,Other,Improved
+221,Strip,Large,15.1999998,Other,Improved
+222,Strip,Small,2.70000005,High voltage,Improved
+223,Median,Large,53,None,Improved
+224,Cutout,Small,3.4000001,Other,Improved
+225,Swale,Medium,11.1999998,High voltage,Improved
+226,Strip,Large,14.5,Other,Improved
+227,Median,Small,3,Other,Improved
+228,Median,Small,2.79999995,None,Improved
+229,Cutout,Medium,5.5,Other,Improved
+230,Strip,Large,17.5,Other,Improved
+231,Median,Large,9.60000038,None,Improved
+232,Strip,Large,17,None,Improved
+233,Swale,Large,7.4000001,Other,Improved
+234,Strip,Medium,27.5,High voltage,Improved
+235,Strip,Medium,10.3000002,High voltage,Improved
+236,Strip,Large,11.3999996,Other,Improved
+237,Strip,Medium,10.6000004,High Voltage,Improved
+238,Median,Large,23.2999992,Other,Improved
+239,Cutout,Medium,4.69999981,Other,Improved
+240,Strip,Large,7.30000019,Other,Improved
+241,Cutout,Medium,4.30000019,High voltage,Improved
+242,Swale,Large,8,Other,Improved
+243,Strip,Large,94,None,Improved
+244,Strip,Large,19.2000008,None,Improved
+245,Curbtight sidewalk,Medium,0,High voltage,Improved
+246,Strip,Medium,14.3999996,High voltage,Improved
+247,Cutout,Large,7.69999981,Other,Improved
+248,Strip,Large,16.7000008,Other,Improved
+249,Strip,Medium,5.5,Other,Improved
+250,Strip,Large,16.6000004,Other,Improved
+251,Other,Small,3,None,Underimproved
+252,Strip,Large,13.3999996,None,Improved
+253,Strip,Medium,20,High Voltage,Improved
+254,Strip,Medium,8.69999981,High voltage,Improved
+255,Cutout,Small,3.4000001,None,Improved
+256,Median,Large,80,None,Improved
+257,Strip,Large,14.1999998,Other,Improved
+258,Swale,Medium,13.5,High voltage,Improved
+259,Strip,Medium,40,High voltage,Improved
+260,No curb - no sidewalk,Medium,0,Other,Underimproved
+261,Cutout,Small,2.5999999,High voltage,Improved
+262,Median,Medium,4.80000019,None,Improved
+263,Median,Large,9,None,Improved
+264,Median,Large,9.80000019,None,Improved
+265,Strip,Large,13.3000002,None,Improved
+266,Strip,Small,3.4000001,None,Improved
+267,Cutout,Medium,5.5999999,Other,Improved
+268,Swale,Large,20,Other,Improved
+269,Cutout,Medium,8.10000038,High voltage,Improved
+270,Median,Large,71.5999985,None,Improved
+271,Swale,Large,9.39999962,None,Improved
+272,Cutout,Small,3.20000005,None,Improved
+273,Strip,Large,99,None,Improved
+274,Cutout,Medium,11.5,High voltage,Improved
+275,Median,Large,56.5,None,Improved
+276,Strip,Small,3.70000005,High Voltage,Improved
+277,Strip,Large,32,Other,Improved
+278,Median,Medium,11,High voltage,Improved
+279,Cutout,Large,6.80000019,None,Improved
+280,Median,Large,12,None,Improved
+281,Cutout,Small,2.5999999,None,Improved
+282,Cutout,Medium,12.8000002,High voltage,Improved
+283,Strip,Medium,5.19999981,None,Improved
+284,Median,Large,154,Other,Improved
+285,Swale,Large,14,None,Improved
+286,Swale,Large,8.5,None,Improved
+287,Cutout,Large,9.5,None,Improved
+288,Strip,Large,17.6000004,None,Improved
+289,Strip,Large,11.1999998,None,Improved
+290,Cutout,Small,1.20000005,Other,Improved
+291,Strip,Large,9.69999981,None,Improved
+292,Cutout,Large,10,Other,Improved
+293,Strip,Large,13.5,Other,Improved
+294,Median,Large,7.19999981,Other,Improved
+295,Median,Large,6.0999999,None,Improved
+296,Strip,Large,7.9000001,Other,Improved
+297,Cutout,Large,8.39999962,None,Improved
+298,Cutout,Small,2.29999995,Other,Improved
+299,Strip,Medium,18.7000008,High voltage,Improved
+300,Strip,Large,6,None,Improved
+301,Strip,Small,2,None,Improved
+302,Strip,Large,22.5,None,Improved
+303,Median,Small,3.29999995,None,Improved
+304,Median,Large,20,None,Improved
+305,Cutout,Medium,8.5,High voltage,Improved
+306,Swale,Medium,12.6000004,High voltage,Improved
+307,Strip,Small,2.20000005,None,Improved
+308,Median,Large,25,None,Improved
+309,Cutout,Large,16,None,Improved
+310,Strip,Large,6.30000019,None,Improved
+311,Cutout,Medium,5.30000019,High voltage,Improved
+312,Strip,Large,6.5,None,Improved
+313,Strip,Large,15,None,Improved
+314,Strip,Large,19.3999996,None,Improved
+315,Strip,Large,12.5,Other,Improved
+316,Strip,Large,9.39999962,None,Improved
+317,Strip,Medium,9.39999962,High voltage,Improved
+318,Median,Large,30.2000008,Other,Improved
+319,Median,Medium,8.5,High voltage,Improved
+320,Swale,Large,11.5,None,Improved
+321,Median,Large,50,Other,Improved
+322,Strip,Medium,18,High voltage,Improved
+323,Strip,Medium,15.6999998,High voltage,Improved
+324,Median,Large,8.80000019,None,Improved
+325,Median,Large,13,Other,Improved
+326,Cutout,Small,2.5,None,Improved
+327,Strip,Small,1.79999995,Other,Improved
+328,Cutout,Medium,7.0999999,High voltage,Improved
+329,Median,Large,13.8000002,None,Improved
+330,Strip,Medium,8.5,High voltage,Improved
+331,Swale,Large,9.5,None,Improved
+332,Strip,Medium,14.8000002,High voltage,Improved
+333,Median,Large,14.5,None,Improved
+334,Strip,Large,19,None,Improved
+335,Swale,Large,10.5,Other,Improved
+336,Strip,Medium,5.30000019,High voltage,Improved
+337,Swale,Medium,5.80000019,None,Improved
+338,Strip,Large,14.8000002,Other,Improved
+339,Strip,Small,2.70000005,Other,Improved
+340,Cutout,Large,8.69999981,None,Improved
+341,Cutout,Large,15.3000002,None,Improved
+342,Cutout,Small,2,None,Improved
+343,Cutout,Medium,4.0999999,Other,Improved
+344,Strip,Large,12.6999998,None,Improved
+345,Strip,Large,34,Other,Improved
+346,Swale,Large,16,None,Improved
+347,Strip,Large,11.6000004,None,Improved
+348,Strip,Medium,4.30000019,High Voltage,Improved
+349,Cutout,Medium,4.5,None,Improved
+350,Strip,Medium,11.1000004,High Voltage,Improved
+351,Cutout,Small,1.39999998,None,Improved
+352,Strip,Medium,7.80000019,High voltage,Improved
+353,Strip,Large,12.6000004,Other,Improved
+354,Cutout,Large,15,None,Improved
+355,Median,Large,16.6000004,None,Improved
+356,Median,Large,8.10000038,None,Improved
+357,Strip,Large,19.5,None,Improved
+358,Cutout,Medium,4.30000019,Other,Improved
+359,Strip,Medium,8.39999962,High voltage,Improved
+360,Strip,Medium,11.5,High voltage,Improved
+361,Cutout,Medium,4,None,Improved
+362,Swale,Large,11.6999998,None,Improved
+363,Cutout,Medium,7.19999981,High voltage,Improved
+364,Strip,Medium,12.8000002,High voltage,Improved
+365,Strip,Medium,14.5,High voltage,Improved
+366,Median,Large,10.8000002,None,Improved
+367,Strip,Large,6.5999999,None,Improved
+368,Median,Medium,36,High voltage,Improved
+369,Curbtight sidewalk,Medium,0,Other,Improved
+370,Median,Large,10.3999996,Other,Improved
+371,Swale,Medium,5,None,Improved
+372,Median,Large,28,None,Improved
+373,Strip,Medium,18.7999992,High voltage,Improved
+374,Median,Medium,4,None,Improved
+375,Strip,Medium,9.30000019,High voltage,Improved
+376,Swale,Large,9,None,Improved
+377,Strip,Medium,13,High Voltage,Improved
+378,Strip,Medium,5.30000019,High Voltage,Improved
+379,Cutout,Large,8.5,Other,Improved
+380,Strip,Large,9.19999981,None,Improved
+381,Median,Large,10.1999998,None,Improved
+382,Strip,Large,11.8000002,None,Improved
+383,Cutout,Medium,11.6999998,High voltage,Improved
+384,Median,Large,33.0999985,None,Improved
+385,Cutout,Small,2.5999999,Other,Improved
+386,Strip,Medium,16.6000004,High voltage,Improved
+387,Swale,Medium,4.69999981,High voltage,Improved
+388,Strip,Small,2.5,Other,Improved
+389,Swale,Medium,5.5999999,High voltage,Improved
+390,Cutout,Small,3.5,High Voltage,Improved
+391,Swale,Small,3.70000005,High voltage,Improved
+392,Median,Large,140,None,Improved
+393,Strip,Large,8.10000038,Other,Improved
+394,Strip,Large,31.5,None,Improved
+395,Strip,Medium,11.6999998,High voltage,Improved
+396,Median,Medium,9,High voltage,Improved
+397,Cutout,Large,8.39999962,Other,Improved
+398,Cutout,Small,3.5999999,None,Improved
+399,Swale,Medium,7.0999999,High voltage,Improved
+400,Strip,Small,2,Other,Improved
+401,Strip,Large,17.5,None,Improved
+402,Cutout,Small,3.20000005,High voltage,Improved
+403,Other,Small,3.5,High voltage,Underimproved
+404,Strip,Large,12.8999996,Other,Improved
+405,Cutout,Large,9.60000038,None,Improved
+406,Strip,Large,48.2999992,None,Improved
+407,Cutout,Small,1.5,Other,Improved
+408,Median,Large,7.9000001,None,Improved
+409,Median,Large,23.2999992,None,Improved
+410,Strip,Medium,5.19999981,High voltage,Improved
+411,Strip,Large,15,Other,Improved
+412,Swale,Small,3,None,Improved
+413,Strip,Medium,7.5999999,High voltage,Improved
+414,Cutout,Small,2.4000001,Other,Improved
+415,Strip,Medium,5.69999981,Other,Improved
+416,Median,Medium,5.80000019,None,Improved
+417,Median,Large,39,None,Improved
+418,Curb - no sidewalk,Medium,0,High voltage,Underimproved
+419,Median,Medium,30,High voltage,Improved
+420,Strip,Medium,4.4000001,Other,Improved
+421,Median,Small,3.79999995,None,Improved
+422,Median,Large,12.5,None,Improved
+423,Swale,Medium,4,High voltage,Improved
+424,Swale,Large,17,None,Improved
+425,Swale,Large,9.5,Other,Improved
+426,Strip,Small,2,High voltage,Improved
+427,Strip,Medium,4.30000019,Other,Improved
+428,Strip,Large,30.7000008,Other,Improved
+429,Strip,Small,2.20000005,High voltage,Improved
+430,Median,Large,15.1000004,None,Improved
+431,Median,Large,30.5,None,Improved
+432,Median,Small,3.5,None,Improved
+433,Strip,Small,3.0999999,High Voltage,Improved
+434,Cutout,Large,8.69999981,Other,Improved
+435,Cutout,Large,7.4000001,None,Improved
+436,Strip,Medium,22.7999992,High voltage,Improved
+437,Strip,Large,7.0999999,Other,Improved
+438,Median,Large,62,None,Improved
+439,Cutout,Small,2.79999995,Other,Improved
+440,Cutout,Large,9.80000019,None,Improved
+441,Swale,Medium,5.5,Other,Improved
+442,Strip,Large,22.3999996,Other,Improved
+443,Strip,Large,12.6999998,Other,Improved
+444,Cutout,Small,2.5,High voltage,Improved
+445,Strip,Medium,8.60000038,High voltage,Improved
+446,Strip,Large,9,Other,Improved
+447,Strip,Medium,5.30000019,Other,Improved
+448,Strip,Large,8.60000038,Other,Improved
+449,Strip,Large,13.8999996,Other,Improved
+450,Strip,Medium,5.4000001,None,Improved
+451,Swale,Large,29.5,None,Improved
+452,Cutout,Large,9.30000019,None,Improved
+453,Strip,Medium,9.5,High Voltage,Improved
+454,Median,Large,17.5,None,Improved
+455,Median,Medium,41,High voltage,Improved
+456,Median,Large,6.19999981,None,Improved
+457,Strip,Large,17.7000008,None,Improved
+458,Strip,Medium,17,High voltage,Improved
+459,Strip,Large,21,None,Improved
+460,Cutout,Small,2,High voltage,Improved
+461,Cutout,Large,12,None,Improved
+462,Median,Medium,10.5,High voltage,Improved
+463,Cutout,Medium,6.80000019,High voltage,Improved
+464,Median,Large,10,Other,Improved
+465,Strip,Medium,10.1000004,High voltage,Improved
+466,Median,Large,10.3000002,None,Improved
+467,Strip,Small,2.9000001,Other,Improved
+468,Cutout,Medium,4.5,High voltage,Improved
+469,Median,Large,41,None,Improved
+470,Cutout,Large,8.10000038,None,Improved
+471,Median,Large,41.5999985,None,Improved
+472,Strip,Large,7.30000019,None,Improved
+473,Strip,Large,14.3999996,Other,Improved
+474,Other,Large,16,None,Underimproved
+475,Strip,Small,1.5,High voltage,Improved
+476,Swale,Medium,5,High voltage,Improved
+477,Strip,Large,22,None,Improved
+478,Median,Large,34.5,None,Improved
+479,Cutout,Medium,4.9000001,None,Improved
+480,Median,Medium,26.3999996,High voltage,Improved
+481,Median,Medium,4,High voltage,Improved
+482,Strip,Large,16.7000008,None,Improved
+483,Curb - no sidewalk,Small,3.5999999,High voltage,Underimproved
+484,Strip,Large,13.3999996,Other,Improved
+485,Median,Medium,8.30000019,High voltage,Improved
+486,Strip,Large,17.7999992,None,Improved
+487,Strip,Medium,9.89999962,High voltage,Improved
+488,Strip,Large,27,None,Improved
+489,Strip,Large,11.5,None,Improved
+490,Median,Large,36.4000015,None,Improved
+491,Cutout,Large,8.80000019,None,Improved
+492,Median,Medium,5,None,Improved
+493,Strip,Medium,10.8000002,High Voltage,Improved
+494,Swale,Large,8.10000038,Other,Improved
+495,Swale,Medium,6,High voltage,Improved
+496,Median,Large,8.30000019,None,Improved
+497,Median,Medium,5.9000001,None,Improved
+498,Median,Large,9,Other,Improved
+499,Median,Medium,189.800003,High voltage,Improved
+500,Swale,Large,12.3999996,Other,Improved
+501,Median,Large,29.2999992,None,Improved
+502,Strip,Large,13.3000002,Other,Improved
+503,Median,Large,6.9000001,None,Improved
+504,Median,Large,52.7000008,None,Improved
+505,Swale,Medium,6.5,High voltage,Improved
+506,Cutout,Large,6.4000001,None,Improved
+507,Median,Medium,18.5,High voltage,Improved
+508,Swale,Medium,9.39999962,High voltage,Improved
+509,No curb - no sidewalk,Large,6,None,Underimproved
+510,Swale,Medium,4.0999999,None,Improved
+511,Cutout,Large,7.30000019,None,Improved
+512,Median,Large,12.5,Other,Improved
+513,Cutout,Small,3.5999999,High voltage,Improved
+514,Cutout,Large,7,None,Improved
+515,Strip,Large,14.6000004,None,Improved
+516,Curb - no sidewalk,Medium,0,High Voltage,Underimproved
+517,Median,Large,12,Other,Improved
+518,Strip,Medium,5.19999981,Other,Improved
+519,Strip,Large,8.19999981,None,Improved
+520,Swale,Large,8.5,Other,Improved
+521,Median,Large,130,None,Improved
+522,Cutout,Large,9.5,Other,Improved
+523,Strip,Large,11.1999998,Other,Improved
+524,Swale,Large,11.8000002,None,Improved
+525,Median,Large,95,None,Improved
+526,Strip,Medium,6,High voltage,Improved
+527,Swale,Large,7.5,None,Improved
+528,Swale,Large,10.6999998,None,Improved
+529,Swale,Medium,5.5999999,None,Improved
+530,Strip,Large,6,Other,Improved
+531,Strip,Small,1.39999998,None,Improved
+532,Strip,Medium,14.1000004,High voltage,Improved
+533,Cutout,Large,12.5,None,Improved
+534,Strip,Medium,6.19999981,High voltage,Improved
+535,Swale,Medium,11.6000004,High voltage,Improved
+536,Swale,Medium,7.69999981,High voltage,Improved
+537,Strip,Large,60,None,Improved
+538,Median,Large,20,Other,Improved
+539,Median,Large,34.2999992,None,Improved
+540,Strip,Small,2.20000005,Other,Improved
+541,Strip,Medium,6.5,High voltage,Improved
+542,Strip,Small,3.0999999,None,Improved
+543,Median,Large,25,Other,Improved
+544,Strip,Large,6.30000019,Other,Improved
+545,Swale,Large,7.69999981,Other,Improved
+546,Strip,Large,6.5,Other,Improved
+547,Swale,Medium,11.5,High voltage,Improved
+548,Strip,Large,9.39999962,Other,Improved
+549,Cutout,Small,2.29999995,High voltage,Improved
+550,Strip,Small,3.9000001,High voltage,Improved
+551,Cutout,Small,1,None,Improved
+552,Strip,Medium,14.6999998,High voltage,Improved
+553,Swale,Large,9.60000038,None,Improved
+554,Strip,Large,13.8000002,Other,Improved
+555,Cutout,Small,2.5,Other,Improved
+556,Swale,Medium,10,High voltage,Improved
+557,Swale,Medium,4.9000001,None,Improved
+558,Median,Large,11.3000002,Other,Improved
+559,Strip,Large,16.5,None,Improved
+560,Median,Large,14.8000002,None,Improved
+561,Strip,Large,13.1000004,None,Improved
+562,Strip,Large,12.1000004,Other,Improved
+563,Swale,Large,13,None,Improved
+564,Strip,Large,6.4000001,None,Improved
+565,Strip,Large,96,None,Improved
+566,Strip,Large,14.8999996,None,Improved
+567,Strip,Large,15.6000004,None,Improved
+568,Strip,Medium,5.0999999,None,Improved
+569,Median,Medium,35.4000015,High voltage,Improved
+570,Swale,Medium,5.80000019,Other,Improved
+571,Strip,Large,10.6999998,None,Improved
+572,Strip,Small,2.79999995,High Voltage,Improved
+573,Swale,Large,6.69999981,None,Improved
+574,Strip,Medium,4.19999981,High Voltage,Improved
+575,Strip,Medium,5.4000001,High voltage,Improved
+576,Swale,Medium,4,None,Improved
+577,Swale,Medium,26.1000004,High voltage,Improved
+578,Median,Large,9.19999981,None,Improved
+579,Strip,Large,11.8999996,None,Improved
+580,Median,Large,70,None,Improved
+581,Cutout,Medium,9.60000038,High voltage,Improved
+582,Median,Large,12.6000004,None,Improved
+583,Cutout,Small,2,Other,Improved
+584,Strip,Medium,11.6000004,High voltage,Improved
+585,Strip,Large,22.1000004,None,Improved
+586,Median,Medium,6,High voltage,Improved
+587,Strip,Large,23.7999992,None,Improved
+588,Strip,Large,7.69999981,Other,Improved
+589,Strip,Large,11.6000004,Other,Improved
+590,Swale,Large,10.1999998,None,Improved
+591,Median,Large,15.8000002,None,Improved
+592,Median,Large,14.3999996,None,Improved
+593,Median,Large,19.2000008,None,Improved
+594,Strip,Medium,19.5,High voltage,Improved
+595,Median,Large,11.1999998,Other,Improved
+596,Strip,Large,14.3000002,None,Improved
+597,Cutout,Medium,6.69999981,High voltage,Improved
+598,Median,Medium,6.19999981,High voltage,Improved
+599,Strip,Large,16.3999996,None,Improved
+600,Swale,Large,6.80000019,None,Improved
+601,Strip,Large,19.5,Other,Improved
+602,Strip,Large,11.5,Other,Improved
+603,Cutout,Small,1.89999998,None,Improved
+604,Strip,Large,6.19999981,None,Improved
+605,Strip,Medium,9.60000038,High voltage,Improved
+606,Swale,Large,7.80000019,None,Improved
+607,Strip,Large,24.5,None,Improved
+608,Median,Large,50.5,None,Improved
+609,Strip,Medium,15,High voltage,Improved
+610,Swale,Medium,5,Other,Improved
+611,Swale,Medium,9,High voltage,Improved
+612,Strip,Medium,13,High voltage,Improved
+613,Median,Medium,13.3000002,High voltage,Improved
+614,Cutout,Medium,4.9000001,High voltage,Improved
+615,Swale,Medium,4.5999999,High voltage,Improved
+616,Strip,Medium,8.80000019,High Voltage,Improved
+617,No curb - no sidewalk,Large,7,Other,Underimproved
+618,Strip,Large,10.5,None,Improved
+619,Strip,Medium,33,High voltage,Improved
+620,Cutout,Large,7,Other,Improved
+621,Median,Large,20.5,None,Improved
+622,Cutout,Small,2.0999999,None,Improved
+623,Median,Large,30.1000004,Other,Improved
+624,Strip,Medium,19.1000004,High voltage,Improved
+625,Strip,Medium,10.1999998,High voltage,Improved
+626,Strip,Large,6.80000019,None,Improved
+627,Swale,Large,7.5,Other,Improved
+628,Strip,Large,11.6999998,Other,Improved
+629,Median,Large,20.2999992,None,Improved
+630,Cutout,Large,11.3999996,None,Improved
+631,Median,Large,11,None,Improved
+632,Cutout,Small,3.5999999,Other,Improved
+633,Median,Large,10.8999996,None,Improved
+634,Cutout,Large,9.60000038,Other,Improved
+635,Strip,Large,8.39999962,None,Improved
+636,Strip,Medium,4.5999999,High voltage,Improved
+637,Median,Medium,45,High voltage,Improved
+638,Strip,Large,12.3999996,None,Improved
+639,Strip,Large,10.3999996,Other,Improved
+640,Strip,Large,6.9000001,None,Improved
+641,Median,Medium,18,High voltage,Improved
+642,Median,Large,45,None,Improved
+643,Strip,Large,17.3999996,None,Improved
+644,Cutout,Small,0.800000012,High voltage,Improved
+645,Median,Large,6.30000019,None,Improved
+646,Strip,Large,26.2999992,None,Improved
+647,Median,Medium,14,High voltage,Improved
+648,Curb - no sidewalk,Medium,4.5,None,Underimproved
+649,Median,Large,9.39999962,None,Improved
+650,Swale,Large,17,Other,Improved
+651,Strip,Large,18.5,None,Improved
+652,Strip,Small,1.39999998,High voltage,Improved
+653,Strip,Medium,16.1000004,High voltage,Improved
+654,Strip,Large,13.6000004,Other,Improved
+655,Swale,Large,14.5,None,Improved
+656,Strip,Large,44,None,Improved
+657,Cutout,Large,9.10000038,None,Improved
+658,Strip,Small,3.0999999,High voltage,Improved
+659,Median,Large,7.0999999,None,Improved
+660,Strip,Large,73,None,Improved
+661,Median,Medium,5.5999999,None,Improved
+662,Other,Medium,7.5,High voltage,Underimproved
+663,Swale,Large,7.30000019,None,Improved
+664,Cutout,Small,3.9000001,Other,Improved
+665,Cutout,Large,8.30000019,None,Improved
+666,Strip,Small,3.9000001,Other,Improved
+667,Cutout,Large,9,Other,Improved
+668,Strip,Large,8.69999981,None,Improved
+669,Strip,Medium,4.80000019,High Voltage,Improved
+670,Median,Large,8.60000038,None,Improved
+671,Curb - no sidewalk,Medium,4.0999999,None,Underimproved
+672,Strip,Medium,25,High voltage,Improved
+673,Strip,Small,2.79999995,None,Improved
+674,Strip,Medium,4.5,High Voltage,Improved
+675,Median,Large,23,None,Improved
+676,Swale,Medium,5.5,None,Improved
+677,Strip,Medium,17.5,High voltage,Improved
+678,Strip,Large,25,Other,Improved
+679,Swale,Medium,8.10000038,High voltage,Improved
+680,Strip,Medium,5.0999999,High voltage,Improved
+681,Cutout,Small,1.29999995,None,Improved
+682,Strip,Medium,17.7000008,High voltage,Improved
+683,Median,Large,43,None,Improved
+684,Strip,Medium,21,High voltage,Improved
+685,Median,Large,17.5,Other,Improved
+686,Median,Large,17,None,Improved
+687,Strip,Large,100,None,Improved
+688,Median,Large,8.39999962,None,Improved
+689,Strip,Medium,13.8000002,High voltage,Improved
+690,Strip,Large,21,Other,Improved
+691,Median,Large,11.5,None,Improved
+692,Cutout,Medium,5.30000019,Other,Improved
+693,Median,Large,6.69999981,None,Improved
+694,Swale,Large,45,None,Improved
+695,Cutout,Small,3.0999999,High voltage,Improved
+696,Swale,Small,3.5999999,None,Improved
+697,Cutout,Large,7.80000019,None,Improved
+698,Strip,Large,16,None,Improved
+699,Median,Large,24,None,Improved
+700,Median,Large,30.6000004,None,Improved
+701,Strip,Large,6.0999999,None,Improved
+702,Cutout,Medium,5.69999981,None,Improved
+703,Cutout,Large,8.10000038,Other,Improved
+704,Cutout,Medium,4.4000001,None,Improved
+705,Swale,Small,3.5,None,Improved
+706,Swale,Medium,8,High voltage,Improved
+707,Cutout,Small,3.70000005,None,Improved
+708,Strip,Large,7.19999981,None,Improved
+709,Strip,Large,11.1000004,None,Improved
+710,Strip,Large,22,Other,Improved
+711,Curbtight sidewalk,Medium,4.5,Other,Improved
+712,Strip,Large,15.8000002,None,Improved
+713,Swale,Medium,8.19999981,High voltage,Improved
+714,Cutout,Medium,4.9000001,Other,Improved
+715,Swale,Medium,4.5999999,Other,Improved
+716,Cutout,Small,3.0999999,None,Improved
+717,Strip,Medium,5.0999999,High Voltage,Improved
+718,Strip,Large,13.6999998,None,Improved
+719,Median,Large,9.89999962,None,Improved
+720,Strip,Medium,10.8000002,High voltage,Improved
+721,Median,Large,90,None,Improved
+722,Strip,Medium,14.1999998,High voltage,Improved
+723,Cutout,Large,8.80000019,Other,Improved
+724,Strip,Medium,21.7000008,High voltage,Improved
+725,Strip,Small,3.5999999,None,Improved
+726,Cutout,Medium,8.19999981,High voltage,Improved
+727,Strip,Large,9.60000038,None,Improved
+728,Median,Large,60,None,Improved
+729,Cutout,Large,6.0999999,None,Improved
+730,Strip,Large,11.3999996,None,Improved
+731,Strip,Small,2.5999999,High voltage,Improved
+732,Strip,Medium,4,None,Improved
+733,Cutout,Large,6.4000001,Other,Improved
+734,Strip,Large,0,None,Improved
+735,Strip,Large,46,None,Improved
+736,Strip,Large,16.7999992,None,Improved
+737,Median,Large,15,Other,Improved
+738,Cutout,Large,7.30000019,Other,Improved
+739,Strip,Large,8,Other,Improved
+740,Swale,Large,12.5,None,Improved
+741,Strip,Large,20.5,None,Improved
+742,Strip,Medium,12.6000004,High voltage,Improved
+743,Strip,Large,18.5,Other,Improved
+744,Swale,Medium,5.4000001,None,Improved
+745,Strip,Medium,8.19999981,High voltage,Improved
+746,Strip,Large,14.6000004,Other,Improved
+747,Strip,Medium,4.5999999,Other,Improved
+748,Swale,Large,9.30000019,None,Improved
+749,Cutout,Medium,9.89999962,High voltage,Improved
+750,Strip,Medium,32,High voltage,Improved
+751,Swale,Large,13.6000004,None,Improved
+752,Swale,Medium,4.5,None,Improved
+753,Strip,Large,8.19999981,Other,Improved
+754,Median,Medium,7,High voltage,Improved
+755,Strip,Large,27.7000008,None,Improved
+756,Strip,Small,3.79999995,High Voltage,Improved
+757,Strip,Small,3.29999995,None,Improved
+758,Strip,Medium,7.30000019,High voltage,Improved
+759,Swale,Large,12,None,Improved
+760,Curb - no sidewalk,Large,0,None,Underimproved
+761,Median,Large,6,None,Improved
+762,Strip,Small,3.70000005,None,Improved
+763,Strip,Large,20.2999992,None,Improved
+764,Median,Medium,5.69999981,None,Improved
+765,Cutout,Large,6.19999981,None,Improved
+766,Strip,Medium,13.5,High voltage,Improved
+767,Strip,Large,7.4000001,None,Improved
+768,Strip,Medium,8.89999962,High Voltage,Improved
+769,Cutout,Large,18.7999992,None,Improved
+770,Strip,Large,19.7999992,None,Improved
+771,Strip,Small,2.4000001,None,Improved
+772,Strip,Medium,27,High voltage,Improved
+773,Median,Large,6.5,None,Improved
+774,Strip,Large,60,Other,Improved
+775,Strip,Small,1.89999998,High voltage,Improved
+776,Strip,Medium,10.3999996,High voltage,Improved
+777,Strip,Small,3.0999999,Other,Improved
+778,Strip,Medium,7.5999999,High Voltage,Improved
+779,Strip,Large,14,None,Improved
+780,Strip,Large,45,None,Improved
+781,Strip,Medium,12.5,High voltage,Improved
+782,Cutout,Medium,12.6999998,High voltage,Improved
+783,Strip,Medium,4.80000019,None,Improved
+784,Strip,Medium,25.5,High voltage,Improved
+785,Strip,Medium,16.5,High voltage,Improved
+786,Strip,Large,97.5,None,Improved
+787,Strip,Medium,30,High voltage,Improved
+788,Median,Medium,15.3999996,High voltage,Improved
+789,Strip,Medium,13.6000004,High voltage,Improved
+790,Strip,Medium,15.6000004,High voltage,Improved
+791,Strip,Large,15.6999998,None,Improved
+792,Cutout,Small,3.29999995,None,Improved
+793,Swale,Large,13,Other,Improved
+794,Swale,Large,8.80000019,None,Improved
+795,Strip,Medium,12,High voltage,Improved
+796,Strip,Small,2.79999995,High voltage,Improved
+797,Swale,Medium,5.5,High voltage,Improved
+798,Strip,Medium,5.0999999,Other,Improved
+799,Strip,Medium,11.8999996,High voltage,Improved
+800,Strip,Large,10.6999998,Other,Improved
+801,Swale,Medium,10.5,High voltage,Improved
+802,Cutout,Medium,6.19999981,High voltage,Improved
+803,Strip,Small,2.0999999,High voltage,Improved
+804,Cutout,Medium,9.5,High voltage,Improved
+805,Median,Large,15.3999996,None,Improved
+806,Swale,Medium,4,Other,Improved
+807,Strip,Large,11.8999996,Other,Improved
+808,Cutout,Large,10,None,Improved
+809,Cutout,Large,10.8999996,None,Improved
+810,Strip,Medium,7.9000001,High Voltage,Improved
+811,Strip,Large,7.9000001,None,Improved
+812,Strip,Large,19.2000008,Other,Improved
+813,Strip,Large,26.5,None,Improved
+814,Cutout,Small,3.0999999,Other,Improved
+815,Swale,Medium,6.80000019,High voltage,Improved
+816,Strip,Large,14.3000002,Other,Improved
+817,Cutout,Large,6.9000001,None,Improved
+818,Cutout,Small,2.20000005,None,Improved
+819,Swale,Medium,7.4000001,High voltage,Improved
+820,Strip,Large,28.5,Other,Improved
+821,Median,Large,6.5999999,None,Improved
+822,Strip,Medium,12.5,High Voltage,Improved
+823,Swale,Large,6.80000019,Other,Improved
+824,Cutout,Large,6.30000019,None,Improved
+825,Strip,Large,13.1999998,None,Improved
+826,Swale,Small,3.5,High voltage,Improved
+827,Strip,Large,6.19999981,Other,Improved
+828,Cutout,Small,3.70000005,High voltage,Improved
+829,Cutout,Medium,5.0999999,None,Improved
+830,Strip,Medium,11.3000002,High voltage,Improved
+831,Median,Large,60,Other,Improved
+832,Cutout,Medium,9.10000038,High voltage,Improved
+833,Swale,Large,6.5999999,None,Improved
+834,Strip,Large,24,None,Improved
+835,Median,Large,57.5,None,Improved
+836,Swale,Medium,6.9000001,High voltage,Improved
+837,Strip,Medium,8.5,High Voltage,Improved
+838,Swale,Medium,5.9000001,None,Improved
+839,Strip,Large,10.5,Other,Improved
+840,Strip,Medium,5.80000019,None,Improved
+841,Strip,Large,33,Other,Improved
+842,Cutout,Large,9.89999962,None,Improved
+843,Strip,Small,2.70000005,None,Improved
+844,Cutout,Large,8.60000038,None,Improved
+845,Median,Large,16.5,Other,Improved
+846,Swale,Large,9.30000019,Other,Improved
+847,Median,Large,189.800003,None,Improved
+848,Cutout,Small,2.0999999,Other,Improved
+849,Strip,Small,2.29999995,High voltage,Improved
+850,Strip,Small,3.5999999,High voltage,Improved
+851,Cutout,Small,3.20000005,Other,Improved
+852,Strip,Medium,9.10000038,High voltage,Improved
+853,Strip,Medium,12.6000004,High Voltage,Improved
+854,Strip,Large,15.5,Other,Improved
+855,Strip,Medium,19.2999992,High voltage,Improved
+856,Strip,Large,6.80000019,Other,Improved
+857,Median,Large,30.1000004,None,Improved
+858,Strip,Medium,11,High voltage,Improved
+859,Strip,Small,2.9000001,High Voltage,Improved
+860,Median,Large,41.5,None,Improved
+861,Strip,Medium,4,High voltage,Improved
+862,No curb - no sidewalk,Large,0,None,Underimproved
+863,Strip,Large,25.8999996,Other,Improved
+864,Cutout,Large,6.19999981,Other,Improved
+865,Swale,Medium,10.6000004,High voltage,Improved
+866,Median,Large,11,Other,Improved
+867,Curb - no sidewalk,Medium,0,Other,Underimproved
+868,Strip,Large,11.6999998,None,Improved
+869,Strip,Large,19.7000008,None,Improved
+870,Strip,Small,3.79999995,None,Improved
+871,Median,Medium,4.30000019,None,Improved
+872,Strip,Medium,5,None,Improved
+873,Strip,Medium,5.9000001,None,Improved
+874,Median,Large,56,None,Improved
+875,Strip,Medium,28,High voltage,Improved
+876,Strip,Large,12.3999996,Other,Improved
+877,Strip,Small,3.29999995,High voltage,Improved
+878,Strip,Large,6.9000001,Other,Improved
+879,Median,Large,189.600006,None,Improved
+880,Strip,Medium,9.30000019,High Voltage,Improved
+881,Strip,Small,3.70000005,High voltage,Improved
+882,Cutout,Large,9.19999981,None,Improved
+883,Strip,Small,3.5,None,Improved
+884,Curb - no sidewalk,Large,8,None,Underimproved
+885,Strip,Large,25.7999992,Other,Improved
+886,Cutout,Medium,5.4000001,High voltage,Improved
+887,Swale,Small,3.4000001,None,Improved
+888,Cutout,Medium,5.80000019,High voltage,Improved
+889,Curb - no sidewalk,Medium,4.5,Other,Underimproved
+890,Strip,Large,20.7999992,None,Improved
+891,Swale,Large,7.5999999,Other,Improved
+892,Strip,Small,2.4000001,High voltage,Improved
+893,Median,Large,39.7999992,None,Improved
+894,Median,Large,28.6000004,None,Improved
+895,Strip,Large,19,Other,Improved
+896,Cutout,Medium,8,High voltage,Improved
+897,Swale,Medium,9.19999981,High voltage,Improved
+898,Strip,Medium,4.80000019,High voltage,Improved
+899,Strip,Large,7,None,Improved
+900,Cutout,Large,8.30000019,Other,Improved
+901,Median,Large,7.5,None,Improved
+902,Median,Large,34,None,Improved
+903,Median,Medium,23.7999992,High voltage,Improved
+904,Strip,Medium,7.0999999,High voltage,Improved
+905,Median,Large,42,None,Improved
+906,Median,Large,21.5,None,Improved
+907,Strip,Small,3.9000001,None,Improved
+908,Median,Large,13.8999996,Other,Improved
+909,Median,Large,8.89999962,None,Improved
+910,Strip,Small,2.79999995,Other,Improved
+911,Cutout,Small,3.29999995,High voltage,Improved
+912,Strip,Small,3.29999995,High Voltage,Improved
+913,Strip,Large,9.80000019,None,Improved
+914,Median,Medium,4.4000001,None,Improved
+915,Strip,Large,9.5,Other,Improved
+916,Cutout,Medium,4.5,Other,Improved
+917,Strip,Large,17.2000008,None,Improved
+918,Strip,Large,13.1999998,Other,Improved
+919,Median,Large,62.2000008,None,Improved
+920,Median,Large,17,Other,Improved
+921,Swale,Large,10.8000002,Other,Improved
+922,Median,Large,8.39999962,Other,Improved
+923,Strip,Medium,4.69999981,High Voltage,Improved
+924,Strip,Small,1.5,Other,Improved
+925,Strip,Medium,4.5,None,Improved
+926,Cutout,Large,9.69999981,None,Improved
+927,Strip,Medium,6.0999999,High voltage,Improved
+928,Swale,Large,11.3999996,None,Improved
+929,Strip,Large,16,Other,Improved
+930,Strip,Large,16.2999992,None,Improved
+931,Strip,Large,10.6000004,None,Improved
+932,Median,Large,24,Other,Improved
+933,Strip,Large,22.6000004,None,Improved
+934,Cutout,Medium,5.30000019,None,Improved
+935,Median,Large,30.6000004,Other,Improved
+936,Cutout,Medium,5.69999981,Other,Improved
+937,Cutout,Small,2.20000005,High voltage,Improved
+938,Cutout,Medium,4.19999981,None,Improved
+939,Strip,Large,9.19999981,Other,Improved
+940,Cutout,Large,6.5999999,None,Improved
+941,Strip,Medium,7.19999981,High voltage,Improved
+942,Cutout,Medium,4.4000001,Other,Improved
+943,Swale,Small,3.5,Other,Improved
+944,Cutout,Large,11,None,Improved
+945,Cutout,Small,3.70000005,Other,Improved
+946,Median,Large,46,None,Improved
+947,Median,Medium,5.30000019,None,Improved
+948,Cutout,Medium,5.0999999,High voltage,Improved
+949,Strip,Large,7.19999981,Other,Improved
+950,Cutout,Large,6.5,None,Improved
+951,Swale,Medium,9.69999981,High voltage,Improved
+952,Strip,Large,15.8000002,Other,Improved
+953,Strip,Large,20,None,Improved
+954,Strip,Medium,8.60000038,High Voltage,Improved
+955,Strip,Large,13.6999998,Other,Improved
+956,Strip,Medium,13.3999996,High voltage,Improved
+957,Strip,Large,10.8000002,Other,Improved
+958,Strip,Medium,15.1999998,High voltage,Improved
+959,Strip,Large,17.1000004,Other,Improved
+960,Curbtight sidewalk,Medium,5.5,Other,Improved
+961,Strip,Medium,5.80000019,High voltage,Improved
+962,Median,Medium,109,High voltage,Improved
+963,Median,Large,189.699997,None,Improved
+964,Swale,Large,10,None,Improved
+965,Swale,Large,11.1999998,None,Improved
+966,Median,Large,7.4000001,None,Improved
+967,Median,Large,19.7000008,Other,Improved
+968,Strip,Small,2.29999995,Other,Improved
+969,Strip,Small,3.5999999,Other,Improved
+970,Strip,Medium,11.3999996,High voltage,Improved
+971,Strip,Small,2.5,High voltage,Improved
+972,Strip,Large,9.60000038,Other,Improved
+973,Cutout,Medium,5,High voltage,Improved
+974,Median,Large,109,None,Improved
+975,Cutout,Small,2,High Voltage,Improved
+976,Swale,Small,3.0999999,Other,Improved
+977,Swale,Large,8.30000019,None,Improved
+978,Median,Medium,64,High voltage,Improved
+979,Cutout,Large,6.0999999,Other,Improved
+980,Swale,Large,9.80000019,Other,Improved
+981,Median,Large,8,None,Improved
+982,Swale,Large,8.69999981,None,Improved
+983,Strip,Medium,0,High voltage,Improved
+984,Other,Large,17,None,Underimproved
+985,Strip,Medium,13.3000002,High voltage,Improved
+986,Strip,Small,3.5,Other,Improved
+987,Cutout,Medium,11,High voltage,Improved
+988,Strip,Large,18.1000004,None,Improved
+989,Cutout,Medium,10,High voltage,Improved
+990,Median,Large,14.6000004,None,Improved
+991,Median,Large,23.2000008,None,Improved
+992,Median,Large,64,None,Improved
+993,Strip,Large,20.5,Other,Improved
+994,Median,Large,8.19999981,None,Improved
+995,Median,Medium,83,High voltage,Improved
+996,Median,Large,32,None,Improved
+997,Strip,Small,3.79999995,High voltage,Improved
+998,Strip,Medium,5,High voltage,Improved
+999,Cutout,Small,1.5,High voltage,Improved
+1000,Strip,Medium,5.9000001,High voltage,Improved
+1001,Strip,Small,3.29999995,Other,Improved
+1002,Swale,Large,12,Other,Improved
+1003,Swale,Medium,8.5,High voltage,Improved
+1004,Strip,Medium,5.80000019,High Voltage,Improved
+1005,Cutout,Medium,6.30000019,High voltage,Improved
+1006,Strip,Small,2.4000001,High Voltage,Improved
+1007,Median,Large,52,None,Improved
+1008,Strip,Medium,8.89999962,High voltage,Improved
+1009,Strip,Medium,11.1999998,High voltage,Improved
+1010,Median,Large,29,None,Improved
+1011,Median,Large,13.5,None,Improved
+1012,Strip,Small,3.5,High voltage,Improved
+1013,Cutout,Medium,5.4000001,Other,Improved
+1014,Strip,Medium,36,High voltage,Improved
+1015,Cutout,Small,3,High voltage,Improved
+1016,Cutout,Medium,5.80000019,Other,Improved
+1017,Cutout,Medium,8.80000019,High voltage,Improved
+1018,Strip,Large,7.4000001,Other,Improved
+1019,Median,Medium,55,High voltage,Improved
+1020,Swale,Small,3.4000001,High voltage,Improved
+1021,Site_Type,Site_Size,Site_Width,Wires,SITE_IMPROVEMENT
+1022,Strip,Large,8.30000019,None,Improved
+1023,Strip,Small,2.5,High Voltage,Improved
+1024,Swale,Medium,8.60000038,High voltage,Improved
+1025,Cutout,Medium,5,High Voltage,Improved
+1026,Strip,Medium,8.30000019,High voltage,Improved
+1027,Cutout,Large,6.69999981,None,Improved
+1028,Median,Large,22,None,Improved
+1029,Swale,Medium,4.9000001,High voltage,Improved
+1030,Strip,Large,14.1000004,None,Improved
+1031,Swale,Small,3.70000005,None,Improved
+1032,Median,Large,31.8999996,None,Improved
+1033,Strip,Large,48,None,Improved
+1034,Strip,Medium,24.5,High voltage,Improved
+1035,Strip,Medium,6.30000019,High voltage,Improved
+1036,Strip,Large,45,Other,Improved
+1037,Strip,Large,25.5,Other,Improved
+1038,Strip,Medium,5.4000001,Other,Improved
+1039,Strip,Medium,4.80000019,Other,Improved
+1040,Swale,Medium,8.39999962,High voltage,Improved
+1041,Median,Large,30,None,Improved
+1042,Strip,Medium,5,High Voltage,Improved
+1043,Strip,Large,12,Other,Improved
+1044,Cutout,Small,3.29999995,Other,Improved
+1045,Cutout,Medium,4.19999981,Other,Improved
+1046,Other,Large,0,None,Underimproved
+1047,Strip,Medium,7.69999981,High voltage,Improved
+1048,Strip,Medium,19,High voltage,Improved
+1049,Swale,Medium,9.30000019,High voltage,Improved
+1050,Strip,Medium,4.4000001,High Voltage,Improved
+1051,Strip,Medium,4.69999981,None,Improved
+1052,Strip,Medium,5.5999999,None,Improved
+1053,Median,Large,14.3000002,None,Improved
+1054,Strip,Large,12.8999996,None,Improved
+1055,Median,Large,13.3999996,None,Improved
+1056,Strip,Medium,10,High voltage,Improved
+1057,Swale,Large,9.10000038,Other,Improved
+1058,Cutout,Small,2.20000005,Other,Improved
+1059,Strip,Medium,6.5,High Voltage,Improved
+1060,Strip,Medium,13.1999998,High voltage,Improved
+1061,Cutout,Medium,4.19999981,High voltage,Improved
+1062,Cutout,Large,6.30000019,Other,Improved
+1063,Swale,Small,3.20000005,None,Improved
+1064,Median,Large,189,None,Improved
+1065,Strip,Large,18,None,Improved
+1066,Strip,Large,27,Other,Improved
+1067,Swale,Medium,11.6999998,High voltage,Improved
+1068,Cutout,Medium,5.0999999,Other,Improved
+1069,Strip,Large,8.80000019,Other,Improved
+1070,Strip,Medium,24,High voltage,Improved
+1071,Strip,Medium,4.9000001,None,Improved
+1072,Median,Large,10.5,None,Improved
+1073,Strip,Large,12.1000004,None,Improved
+1074,Strip,Large,50,None,Improved
+1075,Strip,Large,24,Other,Improved
+1076,Strip,Small,3,High Voltage,Improved
+1077,Swale,Medium,5.19999981,High voltage,Improved
+1078,Other,Small,3.5999999,High voltage,Underimproved
+1079,Strip,Medium,5.80000019,Other,Improved
+1080,Median,Medium,7.0999999,High voltage,Improved
+1081,Strip,Large,16.2000008,None,Improved
+1082,Swale,Large,6.5,Other,Improved
+1083,Swale,Large,15,Other,Improved
+1084,Median,Large,39.4000015,None,Improved
+1085,Cutout,Large,7.5,None,Improved
+1086,Cutout,Large,8.60000038,Other,Improved
+1087,Cutout,Large,8.89999962,None,Improved
+1088,Cutout,Medium,10,High Voltage,Improved
+1089,Strip,Medium,19.6000004,High voltage,Improved
+1090,Cutout,Medium,5,Other,Improved
+1091,Swale,Medium,17.2999992,High voltage,Improved
+1092,Strip,Large,7.80000019,None,Improved
+1093,Strip,Medium,11.6000004,High Voltage,Improved
+1094,Median,Medium,16.8999996,High voltage,Improved
+1095,Strip,Large,19.1000004,None,Improved
+1096,Strip,Small,3.20000005,None,Improved
+1097,Strip,Small,3.4000001,High voltage,Improved
+1098,Swale,Medium,6.4000001,High voltage,Improved
+1099,Cutout,Medium,10.3999996,High voltage,Improved
+1100,Median,Large,9.69999981,None,Improved
+1101,Strip,Large,15.5,None,Improved
+1102,Cutout,Large,7.5999999,None,Improved
+1103,Swale,Medium,7.5,High voltage,Improved
+1104,Swale,Medium,7.19999981,High voltage,Improved
+1105,Swale,Medium,7,High voltage,Improved
+1106,Strip,Small,1.5,None,Improved
+1107,Strip,Large,19.7000008,Other,Improved
+1108,Median,Large,22.5,None,Improved
+1109,Cutout,Large,6.69999981,Other,Improved
+1110,Strip,Small,3.79999995,Other,Improved
+1111,Strip,Medium,5,Other,Improved
+1112,Strip,Small,1.39999998,Other,Improved
+1113,Strip,Medium,5.9000001,Other,Improved
+1114,Strip,Large,10.3000002,None,Improved
+1115,Strip,Large,35,None,Improved
+1116,Strip,Small,1.20000005,High voltage,Improved
+1117,Strip,Small,2.5999999,High Voltage,Improved
+1118,Median,Large,30,Other,Improved
+1119,Cutout,Large,7.69999981,None,Improved
+1120,Swale,Large,58,None,Improved
+1121,Strip,Medium,5.5,None,Improved
+1122,Strip,Large,18.2999992,Other,Improved
+1123,Median,Medium,12,High voltage,Improved
+1124,Strip,Medium,19.6000004,High Voltage,Improved
+1125,Strip,Medium,9.69999981,High voltage,Improved
+1126,Swale,Large,9.60000038,Other,Improved
+1127,Median,Large,19,None,Improved
+1128,Median,Large,30.7000008,None,Improved
+1129,Strip,Small,3.4000001,High Voltage,Improved
+1130,Strip,Medium,14.8999996,High voltage,Improved
+1131,Strip,Large,6.4000001,Other,Improved
+1132,Strip,Medium,7,High voltage,Improved
+1133,Strip,Large,14.8999996,Other,Improved
+1134,Strip,Large,15.8999996,None,Improved
+1135,Strip,Large,29,None,Improved
+1136,Strip,Medium,15.8999996,High voltage,Improved
+1137,Cutout,Small,2.70000005,High voltage,Improved
+1138,Cutout,Medium,5.9000001,None,Improved
+1139,Strip,Small,2.29999995,None,Improved
+1140,Strip,Large,7,Other,Improved
+1141,Median,Medium,20,High voltage,Improved
+1142,Strip,Small,1.70000005,Other,Improved
+1143,Median,Large,63.5,None,Improved
+1144,No curb - no sidewalk,Large,12,None,Underimproved
+1145,Strip,Medium,9,High Voltage,Improved
+1146,Cutout,Medium,5.19999981,None,Improved
+1147,Swale,Medium,5.30000019,None,Improved
+1148,Strip,Medium,4.5999999,High Voltage,Improved
+1149,Swale,Large,8.60000038,None,Improved
+1150,Median,Large,46.7999992,None,Improved
+1151,Swale,Large,22,None,Improved
+1152,Median,Large,26.5,None,Improved
+1153,Swale,Large,23,None,Improved
+1154,Cutout,Large,11.3000002,Other,Improved
+1155,Strip,Large,58,None,Improved
+1156,Strip,Large,9.5,None,Improved
+1157,Cutout,Large,8.19999981,None,Improved
+1158,Strip,Large,17.2999992,None,Improved
+1159,Strip,Medium,4.69999981,High voltage,Improved
+1160,Strip,Medium,5.5999999,High voltage,Improved
+1161,Strip,Medium,4.9000001,Other,Improved
+1162,Strip,Medium,16.2999992,High voltage,Improved
+1163,Median,Large,35,None,Improved
+1164,Swale,Large,10.1000004,None,Improved
+1165,Strip,Large,10.6000004,Other,Improved
+1166,Swale,Large,12.1999998,None,Improved
+1167,Cutout,Medium,5.4000001,None,Improved
+1168,Cutout,Large,13.5,None,Improved
+1169,Cutout,Small,2.29999995,None,Improved
+1170,Cutout,Medium,13,High voltage,Improved
+1171,Cutout,Medium,4,High voltage,Improved
+1172,Median,Medium,9.10000038,High voltage,Improved
+1173,Cutout,Large,6.5,Other,Improved
+1174,Median,Large,145,None,Improved
+1175,Strip,Small,3,None,Improved
+1176,Strip,Large,19.1000004,Other,Improved
+1177,Strip,Medium,20,High voltage,Improved
+1178,Strip,Medium,4.9000001,High voltage,Improved
+1179,Strip,Medium,22,High voltage,Improved
+1180,Strip,Medium,6.5999999,High voltage,Improved
+1181,Strip,Large,23,None,Improved
+1182,Median,Large,130.5,None,Improved
+1183,Swale,Large,12.6000004,None,Improved
+1184,Strip,Large,20,Other,Improved
+1185,Median,Large,9.10000038,None,Improved
+1186,Strip,Small,2.5999999,Other,Improved
+1187,Strip,Medium,17.7999992,High voltage,Improved
+1188,Swale,Large,9.89999962,None,Improved
+1189,Median,Medium,16.7999992,High voltage,Improved
+1190,Strip,Medium,5.5999999,High Voltage,Improved
+1191,Swale,Medium,8.30000019,High voltage,Improved
+1192,Cutout,Small,3.5,None,Improved
+1193,Swale,Medium,4.19999981,None,Improved
+1194,Median,Large,59,None,Improved
+1195,Swale,Medium,8.69999981,High voltage,Improved
+1196,Strip,Large,10.3000002,Other,Improved
+1197,Strip,Large,8.39999962,Other,Improved
+1198,Strip,Large,11.3000002,Other,Improved
+1199,Swale,Medium,15.3000002,High voltage,Improved
+1200,Strip,Large,35,Other,Improved
+1201,Median,Large,36,Other,Improved
+1202,Strip,Large,8.5,None,Improved
+1203,Swale,Medium,9.5,High voltage,Improved
+1204,Strip,Medium,12.1999998,High voltage,Improved
+1205,Median,Large,13.3000002,None,Improved
+1206,Cutout,Medium,7.80000019,High voltage,Improved
+1207,Median,Large,16.7999992,None,Improved
+1208,Strip,Small,3.4000001,Other,Improved
+1209,Strip,Small,3.20000005,High voltage,Improved
+1210,Cutout,Medium,4,High Voltage,Improved
+1211,Swale,Large,6.30000019,Other,Improved
+1212,Median,Large,60.5,None,Improved
+1213,Median,Large,23.2000008,Other,Improved
+1214,Cutout,Medium,4.0999999,None,Improved
+1215,Cutout,Small,3.79999995,High Voltage,Improved
+1216,Median,Small,2.9000001,None,Improved
+1217,Strip,Medium,18.5,High voltage,Improved
+1218,Strip,Large,12.6000004,None,Improved
+1219,Strip,Medium,14.6000004,High voltage,Improved
+1220,Strip,Medium,23.2000008,High voltage,Improved
+1221,Cutout,Medium,11.3999996,High voltage,Improved
+1222,Swale,Large,16.5,None,Improved
+1223,Curbtight sidewalk,Large,12,None,Improved
+1224,Strip,Large,9.89999962,None,Improved
+1225,Median,Large,11.1999998,None,Improved
+1226,Strip,Medium,4,High Voltage,Improved
+1227,Cutout,Large,15.1999998,None,Improved
+1228,Strip,Large,8.30000019,Other,Improved
+1229,Cutout,Medium,4.5999999,None,Improved
+1230,Strip,Large,24.1000004,None,Improved
+1231,Cutout,Large,8.5,None,Improved
+1232,Strip,Large,8.69999981,Other,Improved
+1233,Swale,Large,11,None,Improved
+1234,Strip,Large,55,Other,Improved
+1235,Swale,Large,15,None,Improved
+1236,Swale,Large,6.5,None,Improved
+1237,Strip,Large,48,Other,Improved
+1238,Swale,Large,6,None,Improved
+1239,Strip,Medium,11.8000002,High voltage,Improved
+1240,Cutout,Small,2.70000005,Other,Improved
+1241,Cutout,Small,3.5999999,High Voltage,Improved
+1242,Median,Large,18,None,Improved
+1243,Strip,Medium,8,High Voltage,Improved
+1244,Strip,Large,8,None,Improved
+1245,Cutout,Medium,5.9000001,High voltage,Improved
+1246,Median,Medium,19,High voltage,Improved
+1247,Median,Large,17.2000008,None,Improved
+1248,Cutout,Medium,8.89999962,High voltage,Improved
+1249,Cutout,Large,7.0999999,None,Improved
+1250,Strip,Medium,4.5999999,None,Improved
+1251,Median,Large,19.8999996,None,Improved
+1252,Median,Large,41.2999992,None,Improved
+1253,Strip,Medium,13.1000004,High voltage,Improved
+1254,Cutout,Medium,5.19999981,High voltage,Improved
+1255,Strip,Medium,6.4000001,High voltage,Improved
+1256,Cutout,Large,7.80000019,Other,Improved
+1257,Cutout,Medium,7.5999999,High voltage,Improved
+1258,Strip,Large,12,None,Improved
+1259,Cutout,Medium,6,High voltage,Improved
+1260,Strip,Medium,7.5,High voltage,Improved
+1261,Strip,Medium,10.6999998,High voltage,Improved
+1262,Median,Large,10.6000004,None,Improved
+1263,Strip,Medium,4.69999981,Other,Improved
+1264,Strip,Medium,5.5999999,Other,Improved
+1265,Strip,Large,11,None,Improved
+1266,Swale,Large,11.6000004,None,Improved
+1267,Strip,Large,10.8999996,None,Improved
+1268,Swale,Medium,7.80000019,High voltage,Improved
+1269,Strip,Large,11.1000004,Other,Improved
+1270,Cutout,Small,2.9000001,None,Improved
+1271,Cutout,Small,2.4000001,None,Improved
+1272,Median,Large,40,None,Improved
+1273,Strip,Medium,5.69999981,None,Improved
+1274,Strip,Medium,4.0999999,None,Improved
+1275,Swale,Large,15.5,None,Improved
+1276,Median,Large,27,None,Improved
+1277,Median,Large,19.1000004,None,Improved
+1278,Swale,Large,13.8999996,None,Improved
+1279,Strip,Large,31,None,Improved
+1280,Strip,Medium,16.3999996,High voltage,Improved
+1281,Strip,Medium,4.4000001,None,Improved
+1282,Swale,Large,9.10000038,None,Improved
+1283,Strip,Large,26,None,Improved
+1284,Cutout,Medium,4,Other,Improved
+1285,Strip,Large,18,Other,Improved
+1286,Strip,Medium,12.1000004,High voltage,Improved
+1287,Strip,Medium,4.30000019,None,Improved
+1288,Median,Large,9.30000019,None,Improved
+1289,Strip,Large,8.5,Other,Improved
+1290,Strip,Small,3,High voltage,Improved
+1291,Strip,Large,8.80000019,None,Improved
+1292,Strip,Large,13,Other,Improved
+1293,Swale,Medium,10.3999996,High voltage,Improved
+1294,Strip,Medium,10.6999998,High Voltage,Improved
+1295,Cutout,Large,11.6999998,None,Improved
+1296,Strip,Large,15.3999996,None,Improved
+1297,Cutout,Large,7.5,Other,Improved
+1298,Cutout,Small,2.79999995,None,Improved
+1299,Strip,Medium,4,Other,Improved
+1300,Swale,Large,12.5,Other,Improved
+1301,Cutout,Large,7.9000001,None,Improved
+1302,Median,Large,80.4000015,None,Improved
+1303,Cutout,Small,3.5,High voltage,Improved
+1304,Cutout,Large,9,None,Improved
+1305,Strip,Large,7.80000019,Other,Improved
+1306,Strip,Medium,5.30000019,None,Improved
+1307,Strip,Large,8.60000038,None,Improved
+1308,Strip,Large,12.3000002,None,Improved
+1309,Strip,Medium,15.5,High voltage,Improved
+1310,Strip,Large,13.8999996,None,Improved
+1311,Median,Medium,10,High voltage,Improved
+1312,Strip,Medium,6.80000019,High voltage,Improved
+1313,Strip,Small,3.20000005,Other,Improved
+1314,Strip,Large,9.10000038,None,Improved
+1315,Cutout,Large,9.39999962,Other,Improved
+1316,Cutout,Small,3.79999995,None,Improved
+1317,Cutout,Large,8,Other,Improved
+1318,Cutout,Large,7.5999999,Other,Improved
+1319,Swale,Small,3.0999999,High voltage,Improved
+1320,Strip,Large,12.8000002,Other,Improved
+1321,Median,Large,6,Other,Improved
+1322,Strip,Small,3.70000005,Other,Improved
+1323,Cutout,Medium,4.0999999,High voltage,Improved
+1324,Cutout,Medium,6.0999999,High voltage,Improved
+1325,Median,Large,10,None,Improved
+1326,Strip,Large,26.7000008,None,Improved
+1327,Strip,Small,2.9000001,None,Improved
+1328,Swale,Large,11,Other,Improved
+1329,Strip,Large,9.30000019,Other,Improved
+1330,Strip,Large,10.1000004,None,Improved
+1331,Strip,Small,2.4000001,Other,Improved
+1332,Cutout,Medium,12.6000004,High voltage,Improved
+1333,Strip,Large,6.69999981,None,Improved
+1334,Strip,Medium,5.5,High Voltage,Improved
+1335,Strip,Medium,26.1000004,High voltage,Improved
+1336,Cutout,Medium,13.5,High voltage,Improved
+1337,Strip,Medium,6.9000001,High voltage,Improved
+1338,Strip,Medium,14,High voltage,Improved
+1339,Strip,Large,12.1999998,None,Improved
+1340,Median,Large,18,Other,Improved
+1341,Strip,Large,14,Other,Improved
+1342,Cutout,Medium,9,High voltage,Improved
+1343,Cutout,Large,7.0999999,Other,Improved
+1344,Swale,Medium,21,High voltage,Improved
+1345,Strip,Large,10.1999998,None,Improved
+1346,No curb - no sidewalk,Large,7.5999999,None,Underimproved
+1347,Cutout,Large,6,None,Improved
+1348,Median,Large,6.4000001,None,Improved
+1349,Median,Large,37,None,Improved
+1350,Cutout,Medium,4.5999999,High voltage,Improved
+1351,Cutout,Small,3,None,Improved
+1352,Median,Large,19,Other,Improved
+1353,Strip,Small,3.5999999,High Voltage,Improved
+1354,Strip,Small,2.5999999,None,Improved
+1355,Cutout,Medium,4.80000019,None,Improved
+1356,Median,Large,7,None,Improved
+1357,Swale,Large,8.80000019,Other,Improved
+1358,Strip,Small,1,None,Improved
+1359,Strip,Medium,7.4000001,High Voltage,Improved
+1360,Strip,Large,15.8999996,Other,Improved
+1361,Swale,Large,8.10000038,None,Improved
+1362,Strip,Large,29,Other,Improved
+1363,Cutout,Medium,5.9000001,Other,Improved
+1364,Strip,Small,3.5,High Voltage,Improved
+1365,Swale,Large,9.19999981,None,Improved
+1366,Median,Medium,4.5,High voltage,Improved
+1367,Strip,Large,10.8999996,Other,Improved
+1368,Cutout,Large,10.1000004,None,Improved
+1369,Strip,Medium,15.3000002,High voltage,Improved
+1370,Strip,Small,1.70000005,None,Improved
+1371,Cutout,Medium,5.19999981,Other,Improved
+1372,Swale,Medium,5.30000019,Other,Improved
+1373,Swale,Large,8.60000038,Other,Improved
+1374,Strip,Medium,4.5,High voltage,Improved
+1375,Strip,Small,1.79999995,High voltage,Improved
+1376,Cutout,Large,10.5,None,Improved
+1377,Strip,Medium,6.9000001,High Voltage,Improved
+1378,Other,Large,6,None,Underimproved
+1379,Swale,Large,12.3000002,Other,Improved
+1380,Swale,Large,8.89999962,None,Improved
+1381,Strip,Medium,9.5,High voltage,Improved
+1382,Swale,Large,7.0999999,Other,Improved
+1383,Cutout,Large,6.9000001,Other,Improved
+1384,Cutout,Large,8.19999981,Other,Improved
+1385,Cutout,Medium,9.19999981,High voltage,Improved
+1386,Strip,Medium,9.39999962,High Voltage,Improved
+1387,Median,Large,16.2999992,None,Improved
+1388,Swale,Large,7.5999999,None,Improved
+1389,Median,Large,24.7999992,None,Improved
+1390,Strip,Small,1.89999998,None,Improved
+1391,Strip,Small,3.9000001,High Voltage,Improved
+1392,Cutout,Small,2.4000001,High voltage,Improved
+1393,Cutout,Small,2.9000001,High voltage,Improved
+1394,Swale,Large,17.5,None,Improved
+1395,Strip,Medium,16,High voltage,Improved
+1396,Strip,Medium,5.69999981,High voltage,Improved
+1397,Strip,Medium,4.0999999,High voltage,Improved
+1398,Median,Large,8.5,None,Improved
+1399,Strip,Medium,19,High Voltage,Improved
+1400,Cutout,Large,13.5,Other,Improved
+1401,Strip,Large,14.6999998,Other,Improved
+1402,Strip,Medium,4.4000001,High voltage,Improved
+1403,Strip,Large,21.6000004,None,Improved
+1404,Strip,Medium,9.19999981,High voltage,Improved
+1405,Strip,Small,1.60000002,None,Improved
+1406,Strip,Medium,14.3000002,High voltage,Improved
+1407,Strip,Large,7.5,None,Improved
+1408,Median,Medium,27,High voltage,Improved
+1409,Strip,Medium,4.30000019,High voltage,Improved
+1410,Strip,Small,3,Other,Improved
+1411,Strip,Medium,11.1000004,High voltage,Improved
+1412,Strip,Large,8.89999962,None,Improved
+1413,Swale,Large,7.69999981,None,Improved
+1414,Strip,Large,23,Other,Improved
+1415,Median,Large,29.5,None,Improved
+1416,Strip,Large,40,None,Improved
+1417,Swale,Large,9.69999981,None,Improved
+1418,Strip,Small,2.0999999,None,Improved
+1419,Strip,Medium,0,Other,Improved
+1420,Strip,Medium,13.6999998,High voltage,Improved
+1421,Cutout,Small,2.79999995,High voltage,Improved
+1422,Strip,Large,7.5999999,None,Improved
+1423,Strip,Large,13.8000002,None,Improved
+1424,Swale,Large,38.5999985,None,Improved
+1425,Strip,Large,15.1999998,None,Improved
+1426,Strip,Large,17,Other,Improved
+1427,Median,Small,3,None,Improved
+1428,Cutout,Small,2.0999999,High voltage,Improved
+1429,Cutout,Small,3.5,Other,Improved
+1430,Strip,Large,10.1000004,Other,Improved
+1431,Cutout,Medium,5.5,None,Improved
+1432,Strip,Medium,20.5,High voltage,Improved
+1433,Swale,Large,7.4000001,None,Improved
+1434,Strip,Large,22.2000008,Other,Improved
+1435,Cutout,Medium,9.69999981,High voltage,Improved
+1436,Median,Small,3.5999999,None,Improved
+1437,Cutout,Medium,4.69999981,None,Improved
+1438,Cutout,Medium,8.60000038,High voltage,Improved
+1439,Swale,Medium,9.80000019,High voltage,Improved
+1440,Median,Large,17.3999996,None,Improved
+1441,Strip,Large,11.3000002,None,Improved
+1442,Cutout,Small,3.79999995,High voltage,Improved
+1443,Median,Medium,5.5,None,Improved
+1444,Cutout,Large,10.6000004,None,Improved
+1445,Other,Medium,4,None,Underimproved
+1446,Swale,Large,8,None,Improved
+1447,Strip,Large,17.8999996,None,Improved
+1448,Cutout,Medium,6.5999999,High voltage,Improved

@@ -1,0 +1,356 @@
+species_id,taxonomy,common_name,functional_type,mature_size
+1,Arbutus Arizonica,Arizona Madrone,Medium,Broadleaf evergreen
+2,Quercus chrysolepis,canyon live oak,Large,Broadleaf evergreen
+3,Pinus contorta var. contorta,shore pine,Medium,Coniferous evergreen
+4,Cercis spp.,redbud,Small,Broadleaf deciduous
+5,Pterostyrax spp.,epaulette tree,Small,Broadleaf deciduous
+6,Chamaecyparis obtusa,Hinoki falsecypress,Large,Coniferous evergreen
+7,Acer saccharinum,silver maple,Large,Broadleaf deciduous
+8,Thujopsis dolabrata,hiba arborvitae,Medium,Coniferous evergreen
+9,Stewartia spp.,stewartia,Small,Broadleaf deciduous
+10,Euonymus spp.,euonymus,Small,Broadleaf deciduous
+11,Quercus rubra,northern red oak,Large,Broadleaf deciduous
+12,Pinus parviflora,Japanese white pine,Small,Coniferous evergreen
+13,Morus spp.,mulberry,Medium,Broadleaf deciduous
+14,Crataegus douglasii,black hawthorn,Small,Broadleaf deciduous
+15,Juniperus spp.,juniper,Medium,Coniferous evergreen
+16,Corylus spp.,hazel or hazelnut,Small,Broadleaf deciduous
+17,Lyonothamnus floribunda ssp. asplenifolius,Catalina ironwood,Small,Broadleaf evergreen
+18,Ulmus propinqua 'JFS-Bieberich',Emerald Sunshine elm,Medium,Broadleaf deciduous
+19,Pinus ponderosa,ponderosa pine,Large,Coniferous evergreen
+20,Quercus gravesii,Chisos Red Oak,Medium,Broadleaf evergreen
+21,Styrax obassia,fragrant snowbell,Small,Broadleaf deciduous
+22,Lagerstroemia spp.,crape myrtle,Small,Broadleaf deciduous
+23,Gymnocladus dioica,Kentucky coffee tree,Large,Broadleaf deciduous
+24,Prunus serrula,paperbark cherry,Small,Broadleaf deciduous
+25,Styphnolobium japonicum syn. Sophora japonica,Japanese pagoda tree,Medium,Broadleaf deciduous
+26,Quercus robur,English oak,Large,Broadleaf deciduous
+27,Acer campestre,hedge maple,Medium,Broadleaf deciduous
+28,Quercus mexicana,Mexican evergreen oak,Medium,Broadleaf evergreen
+29,Malus tschonoskii,Tschonoskii crabapple,Small,Broadleaf deciduous
+30,Quercus macrocarpa,bur oak,Large,Broadleaf deciduous
+31,Hesperocyparis abramsiana,Santa Cruz Cypress,Small,Coniferous evergreen
+32,Liriodendron tulipifera,tulip tree,Large,Broadleaf deciduous
+33,Pinus sylvestris,Scots pine,Large,Coniferous evergreen
+34,Tilia cordata,littleleaf linden,Large,Broadleaf deciduous
+35,Chamaecyparis spp.,falsecypress,Medium,Coniferous evergreen
+36,Citrus trifoliata,Trifoliate Orange,Small,Broadleaf deciduous
+37,Araucaria araucana,monkey puzzle,Large,Coniferous evergreen
+38,Pinus flexilis,limber pine,Medium,Coniferous evergreen
+39,Quercus kelloggii,California black oak,Large,Broadleaf deciduous
+40,Chionanthus virginicus,white fringe tree,Small,Broadleaf deciduous
+41,Eucryphia spp.,leatherwood,Small,Broadleaf evergreen
+42,Quercus agrifolia,coast live oak,Medium,Broadleaf evergreen
+43,Frangula alnus 'Asplenifolia',asplenifolia alder buckthorn,Small,Broadleaf deciduous
+44,Hesperocyparis macnabiana,McNab Cypress,Small,Coniferous evergreen
+45,Pinus jeffreyi,Jeffrey pine,Large,Coniferous evergreen
+46,Populus alba,white poplar,Large,Broadleaf deciduous
+47,Tsuga spp.,hemlock,Large,Coniferous evergreen
+48,Ulmus x,elm hybrid,Large,Broadleaf deciduous
+49,Oxydendrum arboreum,sourwood,Medium,Broadleaf deciduous
+50,Tamarix spp.,"tamarisk, salt cedar",Small,Broadleaf deciduous
+51,Prunus spp.,other,Medium,Broadleaf deciduous
+52,Athrotaxis x laxifolia,summit cedar,Medium,Coniferous evergreen
+53,Abies procera,noble fir,Large,Coniferous evergreen
+54,Prunus armeniaca,apricot,Small,Broadleaf deciduous
+55,Picea orientalis,"Pontic spruce, Caucasian spruce, Oriental spruce",Large,Coniferous evergreen
+56,Acer platanoides,Norway maple,Medium,Broadleaf deciduous
+57,Cornus nuttallii,Pacific dogwood,Medium,Broadleaf deciduous
+58,Larix spp.,larch,Large,Coniferous deciduous
+59,Prunus dulcis syn. Prunus amygdalus,almond,Small,Broadleaf deciduous
+60,Ginkgo biloba,ginkgo,Large,Broadleaf deciduous
+61,Chamaecyparis lawsoniana,Port Orford cedar,Large,Coniferous evergreen
+62,Heptacodium miconioides,Seven-son plant,Small,Broadleaf deciduous
+63,Podocarpus chingianus,Japanese Yew,Small,Coniferous evergreen
+64,Styrax americanus,American Snowbell,Small,Broadleaf deciduous
+65,Quercus nigra,water oak,Large,Broadleaf deciduous
+66,Carpinus japonica,Japanese hornbeam,Small,Broadleaf deciduous
+67,Sorbus aria,whitebeam mountain ash,Medium,Broadleaf deciduous
+68,Acer macrophyllum,bigleaf maple,Large,Broadleaf deciduous
+69,Cryptomeria japonica,Japanese cedar,Medium,Coniferous evergreen
+70,Fraxinus excelsior,European ash,Medium,Broadleaf deciduous
+71,Ulmus spp.,elm,Large,Broadleaf deciduous
+72,Aralia spp.,Aralia,Medium,Broadleaf deciduous
+73,Taxodium spp.,bald cypress,Large,Coniferous deciduous
+74,Quercus ilex,Holm oak or holly oak,Medium,Broadleaf evergreen
+75,Malus spp.,ornamental crabapple,Small,Broadleaf deciduous
+76,Cercidiphyllum japonicum,katsura,Medium,Broadleaf deciduous
+77,Photinia serrulata,Chinese photinia,Small,Broadleaf evergreen
+78,Populus tremuloides,quaking aspen,Medium,Broadleaf deciduous
+79,Fraxinus ornus,flowering ash,Medium,Broadleaf deciduous
+80,Betula pendula,European white birch,Medium,Broadleaf deciduous
+81,Asimina triloba,paw paw,Medium,Broadleaf deciduous
+82,Quercus frainetto,"Hungarian oak, Italian oak",Large,Broadleaf deciduous
+83,Picea abies,Norway spruce,Large,Coniferous evergreen
+84,Quercus bicolor,swamp white oak,Large,Broadleaf deciduous
+85,Albizia julibrissin,silk tree,Medium,Broadleaf deciduous
+86,Castanea sativa,Spanish chestnut,Large,Broadleaf deciduous
+87,Liquidambar formosana,Formosan sweetgum,Large,Broadleaf deciduous
+88,Acer miyabei,miyabe maple,Large,Broadleaf deciduous
+89,Rhus spp.,sumac,Small,Broadleaf deciduous
+90,xChitalpa tashkentensis,chitalpa,Small,Broadleaf deciduous
+91,Quercus tomentella,island oak,Medium,Broadleaf evergreen
+92,Corylus avellana,"hazel, filbert",Small,Broadleaf deciduous
+93,Acer buergerianum,trident maple,Small,Broadleaf deciduous
+94,Abies pinsapo,Spanish fir,Large,Coniferous evergreen
+95,Viburnum cylindricum,tubeflower viburnum,Small,Broadleaf evergreen
+96,Acer grandidentatum 'Schmidt',Rocky Mountain Glow maple,Small,Broadleaf deciduous
+97,Betula nigra,river birch,Medium,Broadleaf deciduous
+98,Quercus stellata,post oak,Medium,Broadleaf deciduous
+99,Acer pseudoplatanus,sycamore maple,Large,Broadleaf deciduous
+100,Ostrya spp.,hophornbeam,Medium,Broadleaf deciduous
+101,Acer mandshuricum,Manchurian maple,Medium,Broadleaf deciduous
+102,Crataegus x lavalleei,Lavalle hawthorn,Small,Broadleaf deciduous
+103,Castanopsis spp.,chinkapin,Medium,Broadleaf evergreen
+104,Acer negundo,box elder,Large,Broadleaf deciduous
+105,Platanus x acerifolia,London plane tree,Large,Broadleaf deciduous
+106,Franklinia alatamaha,Franklin tree,Small,Broadleaf deciduous
+107,Pinus nigra,Austrian pine,Large,Coniferous evergreen
+108,Acer rufinerve,redvein maple,Medium,Broadleaf deciduous
+109,Quercus spp. (evergreen),evergreen oak,Medium,Broadleaf evergreen
+110,Syringa reticulata ssp. pekinensis,Peking tree lilac,Small,Broadleaf deciduous
+111,Quercus alba,eastern white oak,Large,Broadleaf deciduous
+112,Robinia pseudoacacia,black locust,Medium,Broadleaf deciduous
+113,Juglans nigra,black walnut,Large,Broadleaf deciduous
+114,Picea sitchensis,Sitka spruce,Large,Coniferous evergreen
+115,Maackia amurensis,Amur maackia,Small,Broadleaf deciduous
+116,Quercus acutissima,sawtooth oak,Large,Broadleaf deciduous
+117,Fraxinus angustifolia,narrowleaf ash,Medium,Broadleaf deciduous
+118,Picea pungens,Colorado blue spruce,Large,Coniferous evergreen
+119,Melliodendron xylocarpum,melliodendron,Medium,Broadleaf deciduous
+120,Osmanthus fragrans,fragrant olive,Small,Broadleaf evergreen
+121,Amelanchier spp.,serviceberry,Small,Broadleaf deciduous
+122,Austrocedrus chilensis,Chilean cedar,Large,Coniferous evergreen
+123,Tilia spp.,linden or basswood,Large,Broadleaf deciduous
+124,Stewartia monadelpha,orange-bark stewartia,Small,Broadleaf deciduous
+125,Hovenia dulcis,Japanese raisin tree,Medium,Broadleaf deciduous
+126,Diospyros spp.,persimmon,Medium,Broadleaf deciduous
+127,Tilia platyphyllos,largeleaf linden,Large,Broadleaf deciduous
+128,Quercus shumardii,Shumard oak,Large,Broadleaf deciduous
+129,Callitropsis nootkatensis,Nootka Cypress,Medium,Coniferous evergreen
+130,SPECIES,MATURE_SIZE,FUNCTIONAL_TYPE
+131,Quercus × bimundorum,Two Worlds Oak,Medium,Broadleaf deciduous
+132,Hesperocyparis bakeri,Baker Cypress,Medium,Coniferous evergreen
+133,Magnolia kobus,kobus or kobushi magnolia,Medium,Broadleaf deciduous
+134,Clerodendrum spp.,glory bower,Small,Broadleaf deciduous
+135,Davidia involucrata,dove tree,Medium,Broadleaf deciduous
+136,Tilia americana,American linden,Large,Broadleaf deciduous
+137,Aesculus spp.,"horsechestnuts, buckeyes",Large,Broadleaf deciduous
+138,Chilopsis linearis,desert willow,Small,Broadleaf deciduous
+139,Tilia mongolica,Mongolian Linden,Medium,Broadleaf deciduous
+140,Paulownia tomentosa,"paulownia, Empress tree",Large,Broadleaf deciduous
+141,Halesia spp.,silverbell,Small,Broadleaf deciduous
+142,Gleditsia spp.,honey locust,Large,Broadleaf deciduous
+143,Laurus nobilis,bay laurel,Small,Broadleaf deciduous
+144,Prunus virginiana,chokecherry,Medium,Broadleaf deciduous
+145,Salix scouleriana,Scouler willow,Small,Broadleaf deciduous
+146,Cornus mas,cornelian cherry dogwood,Small,Broadleaf deciduous
+147,Populus trichocarpa,black cottonwood,Large,Broadleaf deciduous
+148,Crataegus phaenopyrum,Washington hawthorn,Small,Broadleaf deciduous
+149,Pyrus spp.,pear,Medium,Broadleaf deciduous
+150,Laburnum spp.,goldenchain tree,Small,Broadleaf deciduous
+151,Stewartia pseudocamellia,Japanese stewartia,Small,Broadleaf deciduous
+152,Juglans spp.,"walnut, butternut",Large,Broadleaf deciduous
+153,Prunus laurocerasus,English laurel,Medium,Broadleaf evergreen
+154,Juglans regia,English walnut,Large,Broadleaf deciduous
+155,Unknown,Unknown,
+156,Fremontodendron californicum,California Fremontia,Small,Broadleaf evergreen
+157,Acer x freemanii,red-silver maple hybrid,Medium,Broadleaf deciduous
+158,Ulmus pumila,Siberian elm,Large,Broadleaf deciduous
+159,Nothofagus spp.,Southern beech,Large,Broadleaf deciduous
+160,Genista aetnensis,Mt. Aetna broom,Small,Broadleaf deciduous
+161,Ulmus americana,American elm,Large,Broadleaf deciduous
+162,Ficus carica,common fig,Small,Broadleaf deciduous
+163,Hesperocyparis arizonica,Arizona Cypress,Medium,Coniferous evergreen
+164,Fraxinus excelsior 'Aureafolia',golden desert ash,Small,Broadleaf deciduous
+165,Toona sinensis syn. Cedrela sinensis,Chinese toon,Medium,Broadleaf deciduous
+166,Umbellularia californica,Oregon myrtle,Large,Broadleaf evergreen
+167,Podocarpus macrophyllus,Buddhist pine,Small,Coniferous evergreen
+168,Crataegus monogyna,English hawthorn,Small,Broadleaf deciduous
+169,Acer truncatum,Shandong or Shantung maple,Small,Broadleaf deciduous
+170,Chionanthus retusus,Chinese fringe tree,Small,Broadleaf deciduous
+171,Acer palmatum,Japanese maple,Small,Broadleaf deciduous
+172,Quercus emoryi,Emory oak,Medium,Broadleaf evergreen
+173,Prunus persica var. nucipersica,Nectarine,Small,Broadleaf deciduous
+174,Fagus sylvatica,European beech,Large,Broadleaf deciduous
+175,Elaeagnus spp.,"Russian-olive, silverberry, oleaster",Small,Broadleaf deciduous
+176,Corylus colurna,Turkish hazel,Medium,Broadleaf deciduous
+177,Fraxinus spp.,ash,Medium,Broadleaf deciduous
+178,Quercus oblongifolia,"Mexican blue oak, Sonoran blue oak",Small,Broadleaf evergreen
+179,Acer capillipes,Japanese snakebark maple,Medium,Broadleaf deciduous
+180,Cornus florida,eastern dogwood,Small,Broadleaf deciduous
+181,Maclura pomifera,Osage orange,Medium,Broadleaf deciduous
+182,Betula utilis var. jacquemontii,"Himalayan whitebarked birch, Jacquemont birch",Medium,Broadleaf deciduous
+183,Prunus cerasifera,flowering plum,Small,Broadleaf deciduous
+184,Torreya californica,California nutmeg,Large,Coniferous evergreen
+185,Cotinus spp.,smoketree,Small,Broadleaf deciduous
+186,Pteroceltis tatarinowii,winged hackberry,Medium,Broadleaf deciduous
+187,Eriobotrya spp.,loquat,Small,Broadleaf evergreen
+188,Quercus wislizeni,interior live oak,Medium,Broadleaf evergreen
+189,Acer pensylvanicum,Striped Maple,Medium,Broadleaf deciduous
+190,Prunus serrulata,Japanese flowering cherry,Small,Broadleaf deciduous
+191,Acer circinatum,vine maple,Small,Broadleaf deciduous
+192,Cedrus atlantica 'Glauca',blue Atlas cedar,Large,Coniferous evergreen
+193,Quercus polymorpha,"Monterrey oak, Mexican white oak",Large,Broadleaf evergreen
+194,Cupressus sempervirens,Italian cypress,Medium,Coniferous evergreen
+195,Quercus palustris,pin oak,Large,Broadleaf deciduous
+196,Citrus spp.,citrus,Small,Broadleaf evergreen
+197,Ceanothus spp.,California lilac,Small,Broadleaf evergreen
+198,Quercus myrsinifolia,bambooleaf oak,Medium,Broadleaf evergreen
+199,Ailanthus altissima,tree of heaven,Medium,Broadleaf deciduous
+200,Mespilus germanica,medlar,Small,Broadleaf deciduous
+201,Acer rubrum,red maple,Medium,Broadleaf deciduous
+202,Pistacia vera,Pistachio,Small,Broadleaf deciduous
+203,Ulmus parvifolia,Chinese lacebark elm,Medium,Broadleaf deciduous
+204,Prunus persica,peach,Small,Broadleaf deciduous
+205,Cupressus spp.,cypress,Medium,Coniferous evergreen
+206,Quercus phellos,willow oak,Large,Broadleaf deciduous
+207,Eucommia ulmoides,Hardy rubber tree,Medium,Broadleaf deciduous
+208,Quercus dentata,emperor or Daimyo oak,Medium,Broadleaf deciduous
+209,Acer davidii,snakebark maple,Small,Broadleaf deciduous
+210,Cinnamomum camphora,camphor tree,Large,Broadleaf evergreen
+211,Viburnum odoratissimum var. awabuki,Sweet Viburnum,Small,Broadleaf evergreen
+212,Lithocarpus spp.,tanoak,Large,Broadleaf evergreen
+213,Acer griseum,paperbark maple,Small,Broadleaf deciduous
+214,Prunus avium,bird cherry,Medium,Broadleaf deciduous
+215,Prunus mume,Japanese apricot,Small,Broadleaf deciduous
+216,Syringa reticulata,Japanese tree lilac,Small,Broadleaf deciduous
+217,Pterocarya spp.,wingnut,Small,Broadleaf deciduous
+218,Prumnopitys andina,"plum-fruited yew, lleuque, Andean podocarp",Medium,Coniferous evergreen
+219,Quercus gambellii,Gambel oak,Medium,Broadleaf deciduous
+220,Ilex spp.,holly,Medium,Broadleaf evergreen
+221,Abies concolor,white fir,Large,Coniferous evergreen
+222,xSycoparrotia semidecidua,sycoparrotia,Small,Broadleaf deciduous
+223,Osmanthus x fortunei,Fortune's Osmanthus,Small,Broadleaf evergreen
+224,Parrotia persica,Persian ironwood,Medium,Broadleaf deciduous
+225,Sorbus spp.,mountain ash,Small,Broadleaf deciduous
+226,Crataegus spp.,hawthorn,Small,Broadleaf deciduous
+227,Pyrus pyrifolia,Asian pear,Medium,Broadleaf deciduous
+228,Abies spp.,fir,Large,Coniferous evergreen
+229,Cunninghamia lanceolata,China fir,Large,Coniferous evergreen
+230,Carpinus betulus,European hornbeam,Medium,Broadleaf deciduous
+231,Cornus controversa,giant dogwood,Medium,Broadleaf deciduous
+232,Nyssa sinensis,Chinese tupelo,Medium,Broadleaf deciduous
+233,Hamamelis spp.,witch hazel,Small,Broadleaf deciduous
+234,Carpinus spp.,hornbeam,Medium,Broadleaf deciduous
+235,Cladrastis spp.,yellowwood,Medium,Broadleaf deciduous
+236,Quercus coccinea,scarlet oak,Large,Broadleaf deciduous
+237,Acer tataricum,Tatarian Maple,Small,Broadleaf deciduous
+238,Prunus (plum species and cultivars),plum,Small,Broadleaf deciduous
+239,Ehretia dicksonii,Dickson ehretia,Small,Broadleaf deciduous
+240,Populus spp.,poplar,Large,Broadleaf deciduous
+241,Phellodendron spp.,corktree,Small,Broadleaf deciduous
+242,Koelreuteria bipinnata,Chinese Flame Tree,Small,Broadleaf deciduous
+243,Cornus spp.,dogwood,Small,Broadleaf deciduous
+244,Poliothyrsis sinensis,pearlbloom tree,Medium,Broadleaf deciduous
+245,Quercus hypoleucoides,silverleaf oak,Medium,Broadleaf evergreen
+246,Acer spp.,maple,Medium,Broadleaf deciduous
+247,Sequoia sempervirens,coast redwood,Large,Coniferous evergreen
+248,Hesperocyparis spp.,Western Cypress,Large,Coniferous evergreen
+249,Sequoiadendron giganteum,giant sequoia,Large,Coniferous evergreen
+250,Quercus engelmanii,Engelmann oak,Large,Broadleaf deciduous
+251,Quercus muehlenbergii,chinkapin oak,Large,Broadleaf deciduous
+252,Firmiana simplex,Chinese parasol tree,Medium,Broadleaf deciduous
+253,Quercus canbyi,"Sierra oak, Canby oak",Medium,Broadleaf deciduous
+254,Catalpa spp.,catalpa,Large,Broadleaf deciduous
+255,Rhamnus purshiana,cascara buckthorn,Small,Broadleaf deciduous
+256,Cinnamomum japonicum,Japanese Cinnamon,Medium,Broadleaf evergreen
+257,Pyrus calleryana,flowering pear,Medium,Broadleaf deciduous
+258,Malus domestica,apple (MADO),Medium,Broadleaf deciduous
+259,Prunus (cherry species and cultivars),cherry,Small,Broadleaf deciduous
+260,Fraxinus pennsylvanica,green ash,Medium,Broadleaf deciduous
+261,Fraxinus latifolia,Oregon ash,Medium,Broadleaf deciduous
+262,Pinus strobus,eastern white pine,Large,Coniferous evergreen
+263,Acer saccharum,sugar maple,Large,Broadleaf deciduous
+264,Lithocarpus densiflorus,tanoak or tanbark oak,Large,Broadleaf evergreen
+265,Pseudotsuga menziesii,Douglas-fir,Large,Coniferous evergreen
+266,Nyssa sylvatica,black tupelo,Medium,Broadleaf deciduous
+267,Pinus monticola,Western white pine,Large,Coniferous evergreen
+268,Celtis spp.,hackberry,Medium,Broadleaf deciduous
+269,Zanthoxylum spp.,prickly ash,Small,Broadleaf deciduous
+270,Quercus imbricaria,shingle oak,Large,Broadleaf deciduous
+271,Magnolia laevifolia,Magnolia laevifolia,Small,Broadleaf evergreen
+272,Feijoa sellowiana syn. Acca sellowiana,pineapple guava,Small,Broadleaf evergreen
+273,Abies grandis,grand fir,Large,Coniferous evergreen
+274,Carya illinoinensis,pecan,Large,Broadleaf deciduous
+275,Hippophae rhamnoides,seaberry,Small,Broadleaf deciduous
+276,Castanea spp.,chestnut,Large,Broadleaf deciduous
+277,Quercus spp.,oak,Large,Broadleaf deciduous
+278,Cedrus spp.,cedar,Large,Coniferous evergreen
+279,Ligustrum spp.,privet,Small,Broadleaf evergreen
+280,Pistacia chinensis,Chinese pistache,Small,Broadleaf deciduous
+281,Picea spp.,spruce,Large,Coniferous evergreen
+282,Magnolia grandiflora,southern magnolia,Medium,Broadleaf evergreen
+283,Quercus douglasii,blue oak,Large,Broadleaf deciduous
+284,Magnolia spp.,magnolia,Small,Broadleaf deciduous
+285,Tilia tomentosa,silver linden,Large,Broadleaf deciduous
+286,Arbutus menziesii,Pacific madrone,Medium,Broadleaf evergreen
+287,Betula papyrifera,paper birch,Medium,Broadleaf deciduous
+288,Calocedrus decurrens,incense cedar,Large,Coniferous evergreen
+289,Cornus kousa,kousa dogwood,Small,Broadleaf deciduous
+290,xGordlinia grandiflora,mountain gordlinia,Small,Broadleaf evergreen
+291,Arbutus unedo,strawberry tree,Small,Broadleaf evergreen
+292,Picea glauca,white spruce,Large,Coniferous evergreen
+293,Quercus greggii,Gregg oak,Small,Broadleaf evergreen
+294,Magnolia macrophylla,Bigleaf Magnolia,Large,Broadleaf deciduous
+295,Liquidambar styraciflua,sweetgum,Large,Broadleaf deciduous
+296,Magnolia virginiana,sweetbay,Medium,Broadleaf evergreen
+297,Pinus spp.,pine,Large,Coniferous evergreen
+298,Acer henryi,Henry maple,Small,Broadleaf deciduous
+299,Koelreuteria paniculata,goldenrain tree,Medium,Broadleaf deciduous
+300,Salix matsudana 'Tortuosa',corkscrew willow,Small,Broadleaf deciduous
+301,Quercus virginiana,southern live oak,Large,Broadleaf evergreen
+302,Pyrus communis,European pear,Small,Broadleaf deciduous
+303,Salix spp.,willow,Medium,Broadleaf deciduous
+304,Leptospermum spp. ,Tea tree,Small,Broadleaf evergreen
+305,Cydonia oblonga,quince,Small,Broadleaf deciduous
+306,Chrysolepis chrysophylla,Golden Chinkapin,Large,Broadleaf evergreen
+307,Fagus spp.,beech,Large,Broadleaf deciduous
+308,Carpinus caroliniana,American hornbeam,Small,Broadleaf deciduous
+309,Chamaecyparis pisifera,sawara cypress,Medium,Coniferous evergreen
+310,Quercus garryana,Oregon white oak,Large,Broadleaf deciduous
+311,Zelkova serrata,Japanese zelkova,Medium,Broadleaf deciduous
+312,Carya ovata,shagbark hickory,Large,Broadleaf deciduous
+313,Trachycarpus fortunei,windmill palm,Small,Broadleaf evergreen
+314,Ziziphus jujuba,jujube,Small,Broadleaf deciduous
+315,xCupressocyparis leylandii,Leyland cypress,Medium,Coniferous evergreen
+316,Azara microphylla,boxleaf azara,Small,Broadleaf evergreen
+317,Abies koreana,Korean fir,Medium,Coniferous evergreen
+318,Metasequoia glyptostroboides,dawn redwood,Large,Coniferous deciduous
+319,Pseudolarix amabilis,golden larch,Medium,Coniferous deciduous
+320,Quercus lobata,valley oak,Large,Broadleaf deciduous
+321,Eucalyptus spp.,eucalyptus,Large,Broadleaf evergreen
+322,Arbutus spp.,strawberry tree or madrone,Small,Broadleaf evergreen
+323,Quercus suber,cork oak,Large,Broadleaf evergreen
+324,Styrax japonicus,Japanese snowbell,Small,Broadleaf deciduous
+325,Acer japonicum,"full-moon maple, Japanese maple",Small,Broadleaf deciduous
+326,Castanopsis cuspidata,Japanese Chinquapin,Large,Broadleaf evergreen
+327,Taxus spp.,yew,Small,Coniferous evergreen
+328,Quercus x comptoniae,Compton oak,Large,Broadleaf deciduous
+329,Betula spp.,birch,Medium,Broadleaf deciduous
+330,Acer triflorum,three-flower maple,Small,Broadleaf deciduous
+331,Eleagnus angustifolia,Russian-olive,Small,Broadleaf deciduous
+332,"Lindera obtusiloba, Japanese spicebush",Small,Broadleaf deciduous
+333,Alnus rubra,red alder,Medium,Broadleaf deciduous
+334,Thuja spp.,,Large,Coniferous evergreen
+335,Prunus lusitanica,Portuguese laurel,Medium,Broadleaf evergreen
+336,Platycladus orientalis,Chinese arborvitae,Small,Coniferous evergreen
+337,Fraxinus americana,white ash,Large,Broadleaf deciduous
+338,Olea europaea,olive,Small,Broadleaf evergreen
+339,Pinus densiflora,Japanese red pine,Large,Coniferous evergreen
+340,Sciadopitys verticillata,umbrella pine,Medium,Coniferous evergreen
+341,Cladrastis sinensis 'China Rose',Chinese yellowwood,Medium,Broadleaf deciduous
+342,Maackia chinensis- Chinese Maackia,Small,Broadleaf deciduous
+343,Quercus sartorii,"encino blanco, Sartor's oak",Small,Broadleaf evergreen
+344,Tetradium daniellii syn. Evodia daniellii,"Korean evodia, bee-bee tree",Small,Broadleaf deciduous
+345,Acer tataricum ssp. Ginnala,Amur maple,Small,Broadleaf deciduous
+346,Platanus occidentalis,American sycamore,Large,Broadleaf deciduous
+347,Thuja plicata,western redcedar,Large,Coniferous evergreen
+348,Cedrus deodara,deodar cedar,Large,Coniferous evergreen
+349,Hesperocyparis macrocarpa 'Goldcrest',Lemon Cypress,Small,Coniferous evergreen
+350,Xanthocyparis vietnamensis,Golden Vietnamese Cypress,Medium,Coniferous evergreen
+351,Sassafras albidum,sassafras,Medium,Broadleaf deciduous
+352,Magnolia x soulangeana,saucer magnolia,Small,Broadleaf deciduous
+353,Sapindus drummondii syn. Sapindus saponaria var. drummondii,western soapberry,Medium,Broadleaf deciduous
+354,Alnus spp.,alder,Medium,Broadleaf deciduous
+355,Carya spp.,hickories,Large,Broadleaf deciduous
