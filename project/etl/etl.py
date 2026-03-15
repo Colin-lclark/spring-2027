@@ -13,7 +13,7 @@ def createTableCSVs(tables : list[str]):
     '''tables = [[tableName, [column1, column2, ...], [loc1, loc2, ...]], ...]'''
     database = getFilePath('Database')
     for tb in tables:
-        ALL_TABLES.append(tableData(tb[2], database))
+        ALL_TABLES.append(tableData(tb[2], database, tb[0]))
     writeCSV(getFilePath(tb[0] + '.csv'), tableData(TREE_DATABASE_TABLES))
 
 
@@ -30,7 +30,7 @@ def getLocation(table : str):
     return 0
 
 
-def tableData(columns : str, column_loc : list[int], database : str, name : str) -> csv:
+def tableData(column_loc : list[int], database : str, name : str) -> csv:
     table = set()
     with open(database, mode='r') as row:
         value = csv.reader(row)
@@ -47,10 +47,16 @@ def tableData(columns : str, column_loc : list[int], database : str, name : str)
                 else:
                     temp.append(row[index])
 
+            if name == 'tree':
+                for i in ALL_TABLES:
+                    for j in i:
+                        if j[len(j) - 1] == row[2]:
+                            temp.append(j[0])
+                            break
             #Get the species, site, and location ids for tree
             table.add(tuple(temp))
 
-    return setToList(table, columns)
+    return table
 
 def setToList(table : set, columns : list[str]):
     id = 1
@@ -63,10 +69,11 @@ def setToList(table : set, columns : list[str]):
     return table_list
 
 
-def writeCSV(file : str, table):
+def writeCSV(file : str, table : set, columns : list[str]):
 
+    table_list = setToList(table, columns)
     with open(file, mode='w', newline='') as row:
-        csv.writer(row).writerows(table)
+        csv.writer(row).writerows(table_list)
 
 
 if __name__ == '__main__':
