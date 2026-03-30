@@ -1,6 +1,6 @@
 # Note 20
 
-# Activity
+## Activity
 
 Using the `registrar` example ([schema](./registrar-schema.sql) and
 [data](./registrar-data.sql)), write SQL queries to find answers to the
