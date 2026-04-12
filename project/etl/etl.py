@@ -26,8 +26,7 @@ def createTableCSVs(columns : dict[str], indices : dict[int], names : list[str])
         path = getFilePath(name + '.csv')
         if name != 'tree':
             id_dicts[name] = createIDDictionary(path)
-        else:
-            writeCSV(path, tableData(columns[name], indices, database, name, id_dicts, names))
+        writeCSV(path, tableData(columns[name], indices, database, name, id_dicts, names))
 
 
 def getFilePath(name : str) -> str:
@@ -42,8 +41,8 @@ def tableData(columns : dict[tuple], indices : tuple[int], database : str, name 
     id = 0
     n = 0
 
-    with open(database, mode='r') as row:
-        value = csv.reader(row)
+    with open(database, mode='r') as line:
+        value = csv.reader(line)
 
         for row in value:
             temp = createRow(row, indices[name])
