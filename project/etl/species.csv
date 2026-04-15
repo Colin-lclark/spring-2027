@@ -60,7 +60,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 59,Carpinus spp.,hornbeam,Medium,Broadleaf deciduous
 60,xSycoparrotia semidecidua,sycoparrotia,Small,Broadleaf deciduous
 61,Ulmus spp.,elm,Large,Broadleaf deciduous
-62,Unknown,Unknown,
+62,Acer rubrum,red maple,Medium,Broadleaf deciduous
 63,Acer saccharinum,silver maple,Large,Broadleaf deciduous
 64,Cercis spp.,redbud,Small,Broadleaf deciduous
 65,Acer circinatum,vine maple,Small,Broadleaf deciduous
@@ -183,7 +183,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 182,Prunus serrula,paperbark cherry,Small,Broadleaf deciduous
 183,Tsuga spp.,hemlock,Large,Coniferous evergreen
 184,Elaeagnus spp.,"Russian-olive, silverberry, oleaster",Small,Broadleaf deciduous
-185,Quercus × bimundorum,Two Worlds Oak,Medium,Broadleaf deciduous
+185,Quercus ï¿½ bimundorum,Two Worlds Oak,Medium,Broadleaf deciduous
 186,Eriobotrya spp.,loquat,Small,Broadleaf evergreen
 187,Asimina triloba,paw paw,Medium,Broadleaf deciduous
 188,Ulmus propinqua 'JFS-Bieberich',Emerald Sunshine elm,Medium,Broadleaf deciduous
