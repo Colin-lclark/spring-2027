@@ -36,8 +36,18 @@ SELECT *
 ```
 
 1. How many rows will this query scan?
+16 rows
 
 2. Design an auxiliary data structure to speed up the execution of this query.
+Possible Options:
+- Sorted Table - Make a new table with the last names in sorted order and the employee number for each last name
+  -> This allows you to do a binary search
+  -> O(log n) + O(1)
+
+- Hash Table - Uses a hash function takes a string and returns a number. In this case it would store a list of emp_no values because the last names aren't unique
+  -> hash(last_name) % 16 to get a single return value
+  -> O(1) + O(1)
+
 
 3. Assuming values in the **last_name** column are unique, how many steps does
    it take to evaluate the query with the help of the auxiliary data structure
