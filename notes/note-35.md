@@ -93,12 +93,28 @@ Consider the following table with the primary key shown in *italics*.
 Questions:
 
 1. Find all functional dependencies.
+- name has functional dependence on ssn
+- hourly_wage has functional dependence on rating
+
 2. Is this table in first normal form?
+Yes
+
 3. Is this table in second normal form?
+Yes
+
 4. Is this table in third normal form?
+No because hourly_wage is not unique and has functional dependence on rating
+
 5. Is this table in Boyce-Codd normal form?
+No (same reason for not being 3NF)
+
 6. For each question related to normal form: if it is not in normal form, use   
    table decomposition to achieve normalization
+- Remove hourly_wage from the above table
+New table:
+rating | hourly_wage
+8      | 10
+5      | 7
 
 ### References
 
