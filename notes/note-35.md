@@ -99,3 +99,7 @@ Questions:
 5. Is this table in Boyce-Codd normal form?
 6. For each question related to normal form: if it is not in normal form, use   
    table decomposition to achieve normalization
+
+### References
+
+Sections 2.10, 2.11, and 2.12 of the text.
