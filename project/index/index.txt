@@ -1,4 +1,4 @@
-Authors: Fab
+Authors: Fabrizio Martinez & Colin Sheehan
 
 Query used:
 SELECT tree.tree_id, tree.diameter, tree.health 
