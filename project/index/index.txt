@@ -1,0 +1,20 @@
+Authors: Fab
+
+Query used:
+SELECT tree.tree_id, tree.diameter, tree.health 
+FROM tree 
+JOIN location ON tree.location_id = location.location_id 
+WHERE location.neighborhood = 'CONCORDIA';
+
+Index Command:
+CREATE INDEX Neighborhoods ON location (neighborhood);
+SHOW INDEX FROM location;
+
+Original Runtime:
+0.0112 seconds
+
+Updated Runtime:
+0.0046 seconds
+
+Ratio:
+~2.44x the original speed!
