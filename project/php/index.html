@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tree Database Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Tree Database Manager</h1>
+
+    <div class="card">
+        <h2>Find Trees by Neighborhood</h2>
+        <form action="select_neighborhood.php" method="GET">
+            <label for="neighborhood">Neighborhood Name:</label><br>
+            <input type="text" id="neighborhood" name="neighborhood" placeholder="e.g., CONCORDIA" required>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Find Trees by Health Status</h2>
+        <form action="select_health.php" method="GET">
+            <label for="health">Health Condition:</label><br>
+            <select id="health" name="health">
+                <option value="Good">Good</option>
+                <option value="Fair">Fair</option>
+                <option value="Poor">Poor</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Update Tree Health</h2>
+        <form action="update_health.php" method="POST">
+            <label for="tree_id">Tree ID:</label><br>
+            <input type="number" id="tree_id" name="tree_id" required><br>
+            <label for="new_health">New Health Status:</label><br>
+            <select id="new_health" name="new_health">
+                <option value="Good">Good</option>
+                <option value="Fair">Fair</option>
+                <option value="Poor">Poor</option>
+                <option value="Dead">Dead</option>
+            </select>
+            <button type="submit">Update Record</button>
+        </form>
+    </div>
+</body>
+</html>
