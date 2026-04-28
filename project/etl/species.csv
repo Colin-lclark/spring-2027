@@ -60,7 +60,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 59,Carpinus spp.,hornbeam,Medium,Broadleaf deciduous
 60,xSycoparrotia semidecidua,sycoparrotia,Small,Broadleaf deciduous
 61,Ulmus spp.,elm,Large,Broadleaf deciduous
-62,Acer rubrum,red maple,Medium,Broadleaf deciduous
+62,Unknown,Unknown,
 63,Acer saccharinum,silver maple,Large,Broadleaf deciduous
 64,Cercis spp.,redbud,Small,Broadleaf deciduous
 65,Acer circinatum,vine maple,Small,Broadleaf deciduous
@@ -183,7 +183,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 182,Prunus serrula,paperbark cherry,Small,Broadleaf deciduous
 183,Tsuga spp.,hemlock,Large,Coniferous evergreen
 184,Elaeagnus spp.,"Russian-olive, silverberry, oleaster",Small,Broadleaf deciduous
-185,Quercus bimundorum,Two Worlds Oak,Medium,Broadleaf deciduous
+185,Quercus × bimundorum,Two Worlds Oak,Medium,Broadleaf deciduous
 186,Eriobotrya spp.,loquat,Small,Broadleaf evergreen
 187,Asimina triloba,paw paw,Medium,Broadleaf deciduous
 188,Ulmus propinqua 'JFS-Bieberich',Emerald Sunshine elm,Medium,Broadleaf deciduous
@@ -236,7 +236,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 235,Corylus colurna,Turkish hazel,Medium,Broadleaf deciduous
 236,Quercus chrysolepis,canyon live oak,Large,Broadleaf evergreen
 237,Davidia involucrata,dove tree,Medium,Broadleaf deciduous
-238,Lindera obtusiloba, Japanese spicebush,Small,Broadleaf deciduous
+238,"Lindera obtusiloba, Japanese spicebush",Small,Broadleaf deciduous
 239,Thujopsis dolabrata,hiba arborvitae,Medium,Coniferous evergreen
 240,Populus alba,white poplar,Large,Broadleaf deciduous
 241,Acer tataricum,Tatarian Maple,Small,Broadleaf deciduous
@@ -336,7 +336,7 @@ species_id,taxonomy,common_name,functional_type,mature_size
 335,Athrotaxis x laxifolia,summit cedar,Medium,Coniferous evergreen
 336,Xanthocyparis vietnamensis,Golden Vietnamese Cypress,Medium,Coniferous evergreen
 337,Quercus tomentella,island oak,Medium,Broadleaf evergreen
-338,Maackia chinensis, Chinese Maackia,Small,Broadleaf deciduous
+338,Maackia chinensis- Chinese Maackia,Small,Broadleaf deciduous
 339,Podocarpus chingianus,Japanese Yew,Small,Coniferous evergreen
 340,Quercus polymorpha,"Monterrey oak, Mexican white oak",Large,Broadleaf evergreen
 341,Viburnum odoratissimum var. awabuki,Sweet Viburnum,Small,Broadleaf evergreen
