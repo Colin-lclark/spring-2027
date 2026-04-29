@@ -26,6 +26,7 @@ def createTableCSVs(columns : dict[str], indices : dict[int], names : list[str])
         path = getFilePath(name + '.csv')
         if name != 'tree':
             id_dicts[name] = createIDDictionary(path)
+        #Comment out the else statement to write the first few files. Also, remove a tab from the writeCSV line so it matches up.
         else:
             writeCSV(path, tableData(columns[name], indices, database, name, id_dicts, names))
 
